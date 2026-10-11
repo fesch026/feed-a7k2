@@ -1,9 +1,1079 @@
 {
  "schema": 1,
- "generatedAt": "2026-10-10T20:29:21Z",
+ "generatedAt": "2026-10-11T05:30:17Z",
  "attribution": "Meldungen: NewsData.io. Rechte an Inhalten liegen bei den jeweiligen Medien; Links fuehren zum Original.",
  "count": 400,
  "items": [
+  {
+   "id": "bf52cfd81d62953b2c0fa09b27cbea5b",
+   "title": "Joanna (26) gibt sicheren Job auf, um Vollzeit eine Mini-Bäckerei in ihrer Küche zu eröffnen",
+   "source": "Focus",
+   "link": "https://www.focus.de/finanzen/karriere/joanna-26-gibt-sicheren-job-auf-um-vollzeit-eine-mini-baeckerei-in-ihrer-kueche-zu-eroeffnen_3d562f97-854b-47e0-9af9-6967f0a152a9.html",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "germany",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "3f680898f3e7079fad835811c9a4c0d0",
+   "title": "Insolvenz bietet seltene Chance: Grundstücke, die die Stadt nun kaufen könnte",
+   "source": "Tz",
+   "link": "https://www.tz.de/muenchen/stadt/trudering-riem-ort43347/pandion-pleite-als-chance-gruene-wollen-messestadt-riem-grundstuecke-kaufen-94530795.html",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "germany",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "dc53222bfda2222e33d0c6173b5c8736",
+   "title": "The votes are in: Damato wins the naming contest",
+   "source": "Chronicle Online",
+   "link": "https://www.chronicleonline.com/news/local/the-votes-are-in-damato-wins-the-naming-contest/article_3e22302e-dd5e-5d12-9808-9c974858235a.html",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "lifestyle",
+   "language": "english"
+  },
+  {
+   "id": "a0ab57a5ec3712651eaabe4900ba6f63",
+   "title": "Post Isaias cleanup begins, price gouging law in effect",
+   "source": "Dothaneagle",
+   "link": "https://dothaneagle.com/news/local/article_cbe15251-b8cb-4fa5-91a3-00bf06121afb.html",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "88c071d4231ada2f971739e170721475",
+   "title": "CFTC Issues New Rules to Separate Prediction Markets from Casino-Style Gambling",
+   "source": "Analytics And Insight",
+   "link": "https://www.analyticsinsight.net/news/cftc-issues-new-rules-to-separate-prediction-markets-from-casino-style-gambling",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "db38092feb9164eff58d74121ac3a86e",
+   "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for US diesel prices (Associated Press)",
+   "source": "Memeorandum",
+   "link": "https://www.memeorandum.com/261010/p46",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "3302975a0266754e720a0d5cf580f741",
+   "title": "1 Reason the Meta Muse AI Agent Has the Upper Hand",
+   "source": "Fool",
+   "link": "https://www.fool.com/investing/2026/10/10/1-reason-the-meta-muse-ai-agent-has-the-upper-hand/",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "60d8e074a42dc4517c9d3b283610488a",
+   "title": "Jim Langley: Why Our ‘Me First’ Mentality Is Dividing Us and How Faith Can Bring Us Back Together",
+   "source": "Noozhawk",
+   "link": "https://www.noozhawk.com/jim-langley-why-our-me-first-mentality-is-dividing-us-and-how-faith-can-bring-us-back-together/",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "8eb17ab3c1b18df9159b5413d61484f1",
+   "title": "SUZAN STEWART: Candidates focus on areas of agreement in debates",
+   "source": "Sioux City Journal News",
+   "link": "https://siouxcityjournal.com/opinion/columnists/article_89f61042-6972-4c73-8b7b-6a65323e1903.html",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "dfce3c924b1cdf7365c45270b7d8774f",
+   "title": "Reader Opinion: Voting season is open",
+   "source": "Brainerddispatch",
+   "link": "https://www.brainerddispatch.com/opinion/letters/reader-opinion-voting-season-is-open",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "697fd0d5626fa12721bac067c2e00145",
+   "title": "Who's vying for Wyoming's 1st Ward council seat?",
+   "source": "Mlive",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/10/meet-the-2-candidates-vying-for-wyomings-1st-ward-seat-on-nov-3.html",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "c28b0249ddc689c60ee6c1c84f1bf49e",
+   "title": "Democrats Campaigning Against Their Own Congressional Nominee Who Happens to Be in Federal Prison",
+   "source": "The Western Journal",
+   "link": "https://www.westernjournal.com/democrats-campaigning-congressional-nominee-happens-federal-prison/",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "117add969059a5eea823ebe146b1ca2d",
+   "title": "Trump's DOJ Is Hiring Only the Best MAGA Wing Nuts (Jason Linkins/New Republic)",
+   "source": "Memeorandum",
+   "link": "https://www.memeorandum.com/261010/p49",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "2ddac449a14eb1b183a2b67c5156ab08",
+   "title": "Republicans' SNAP changes land in crunch time for midterms (Eli Okun/Politico)",
+   "source": "Memeorandum",
+   "link": "https://www.memeorandum.com/261010/p48",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "9490bc0801f6be0093e1cbb38656766d",
+   "title": "No Need to Panic If Fox Doesn't Air Hours of Trump Rallies",
+   "source": "Newsbusters",
+   "link": "https://www.newsbusters.org/blogs/nb/jeffrey-lord/2026/10/10/no-need-panic-if-fox-doesnt-air-hours-trump-rallies",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "united states of america",
+   "category": "politics",
+   "language": "english"
+  },
+  {
+   "id": "7a8d8bbb696390e7b1bd53979fd2e84f",
+   "title": "« On demande une revalorisation des pensions » : les retraités appellent à manifester le 14 octobre, devant le siège du Medef, à Agen",
+   "source": "Sudouest",
+   "link": "https://www.sudouest.fr/lot-et-garonne/agen/on-demande-une-revalorisation-des-pensions-les-retraites-appellent-a-manifester-le-14-octobre-devant-le-siege-du-medef-a-agen-31008416.php",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "france",
+   "category": "politics",
+   "language": "french"
+  },
+  {
+   "id": "276361e5374a7c9c14238e27e32c9ef7",
+   "title": "En images. La police municipale de Décines-Charpieu dévoile tout sur ses fonctions...",
+   "source": "Le Progrès",
+   "link": "https://www.leprogres.fr/faits-divers-justice/2026/10/10/la-police-municipale-de-decines-charpieu-devoile-tout-sur-ses-fonctions",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "france",
+   "category": "politics",
+   "language": "french"
+  },
+  {
+   "id": "af937f172921f6022395450098774f9b",
+   "title": "Obernai. Les lycéens de Freppel sont entrés dans la mobilisation",
+   "source": "Dna Fr",
+   "link": "https://www.dna.fr/education/2026/10/10/les-lyceens-de-freppel-sont-entres-dans-la-mobilisation",
+   "published": "2026-10-10T17:30:00Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "b75a991557e3ff37ea539dbd5cce08e8",
+   "title": "Animaux et produits du terroir en vedette ce week-end au salon de l’agriculture de Perpignan",
+   "source": "L'independent",
+   "link": "https://www.lindependant.fr/2026/10/10/animaux-et-produits-du-terroir-en-vedette-ce-week-end-au-salon-de-lagriculture-de-perpignan-13594955.php",
+   "published": "2026-10-10T17:29:59Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "7db35b442c48b369a82c23b99377579c",
+   "title": "How Much Does a 57-Year-Old Need in a Roth IRA to Collect $5,050 a Month Tax-Free for Life?",
+   "source": "24/7 Wall St",
+   "link": "https://247wallst.com/personal-finance/2026/10/10/how-much-does-a-57-year-old-need-in-a-roth-ira-to-collect-5050-a-month-tax-free-for-life/",
+   "published": "2026-10-10T17:29:53Z",
+   "country": "united states of america",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "e8df409d95427d142e19ea2deb32c577",
+   "title": "UN human rights office slams racist abuse of Coco Gauff and calls for solidarity to help fight it",
+   "source": "Kiro 7 News",
+   "link": "https://www.kiro7.com/sports/un-human-rights/LXYCBLQ6ZU6MBMONTU3KLXLYKQ/",
+   "published": "2026-10-10T17:29:47Z",
+   "country": "united states of america",
+   "category": "politics",
+   "language": "english"
+  },
+  {
+   "id": "cd849a8cbf9180ea67bab279723a124b",
+   "title": "UN human rights office slams racist abuse of Coco Gauff and calls for solidarity to help fight it",
+   "source": "Wftv",
+   "link": "https://www.wftv.com/sports/un-human-rights/LXYCBLQ6ZU6MBMONTU3KLXLYKQ/",
+   "published": "2026-10-10T17:29:47Z",
+   "country": "united states of america",
+   "category": "politics",
+   "language": "english"
+  },
+  {
+   "id": "6b7bdbbe71d97ad0bebb0efd0d285b44",
+   "title": "Nach Diesel-Deal-Kritik von Selenskyj fordert Trump dessen Ablöse",
+   "source": "Kleine Zeitung",
+   "link": "https://www.kleinezeitung.at/artikel/41344483/trump-ukraine-braucht-neuen-praesidenten",
+   "published": "2026-10-10T17:29:30Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "1ae7c66038c7a742150ad122e9d5e516",
+   "title": "Blue Lotus Vacations Reports Growing UK Demand for Travel Agents and ATOL-Protected Holidays in 2026",
+   "source": "Financialcontent",
+   "link": "https://www.financialcontent.com/article/marketersmedia-2026-10-10-blue-lotus-vacations-reports-growing-uk-demand-for-travel-agents-and-atol-protected-holidays-in-2026",
+   "published": "2026-10-10T17:29:30Z",
+   "country": "united states of america",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "c1d0281a1c1eabe2ec7dbe53aee636fb",
+   "title": "7 Essential Tips for Effective Performance Feedback",
+   "source": "Small Business Trends",
+   "link": "https://smallbiztrends.com/performance-feedback/",
+   "published": "2026-10-10T17:29:26Z",
+   "country": "united states of america",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "c004c63ffa0700737806081bf1c7d263",
+   "title": "Fußball-Landesliga: SV Weil hätte Sieg verdient gehabt.",
+   "source": "Schwarzwälder Bote",
+   "link": "https://www.schwarzwaelder-bote.de/sport/sport-kreis-loerrach/fussball-landesliga-sv-weil-haette-sieg-verdient-gehabt-79555339.html",
+   "published": "2026-10-10T17:29:12Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "75c0a10802c566cc3eb8e2d329d62af5",
+   "title": "Ethereum Price Prediction: ETH May Dip to $2,300 Before the Rally Resumes",
+   "source": "Fxempire",
+   "link": "https://www.fxempire.com/forecasts/article/ethereum-price-prediction-eth-may-dip-to-2300-before-the-rally-resumes-1637193",
+   "published": "2026-10-10T17:29:08Z",
+   "country": "united states of america",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "c3edfccd795e1f86b856d7960e4e78b1",
+   "title": "Scottish Green MSP facing demands to quit after endorsing antisemitic post",
+   "source": "Mail Online",
+   "link": "https://www.dailymail.com/news/article-16198927/Scottish-Green-MSP-demands-endorsing-antisemitic-post.html",
+   "published": "2026-10-10T17:29:05Z",
+   "country": "united kingdom",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "f58c8ac532e6202f86ec5af795008e8b",
+   "title": "Trump fordert Ablösung des ukrainischen Präsidenten",
+   "source": "Stimberg Zeitung",
+   "link": "https://www.stimberg-zeitung.de/dpa-infoline-zvr/trump-fordert-abloesung-des-ukrainischen-praesidenten-w1259639-10001406643/",
+   "published": "2026-10-10T17:29:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "261608c19259f426ff0f1b3002ed61d2",
+   "title": "Trump fordert Ablösung des ukrainischen Präsidenten",
+   "source": "Ruhrnachrichten De",
+   "link": "https://www.ruhrnachrichten.de/dpa-infoline-zvr/trump-fordert-abloesung-des-ukrainischen-praesidenten-w1259639-2002259172/",
+   "published": "2026-10-10T17:29:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "e71cc6311e1679a9e0756dca466515be",
+   "title": "Trump fordert Ablösung des ukrainischen Präsidenten",
+   "source": "Waltroper Zeitung",
+   "link": "https://www.waltroper-zeitung.de/dpa-infoline-zvr/trump-fordert-abloesung-des-ukrainischen-praesidenten-w1259639-11001494494/",
+   "published": "2026-10-10T17:29:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "1a860dc92bba36ed9256260b29b09981",
+   "title": "Trump fordert Ablösung des ukrainischen Präsidenten",
+   "source": "Recklinghäuser Zeitung",
+   "link": "https://www.recklinghaeuser-zeitung.de/dpa-infoline-zvr/trump-fordert-abloesung-des-ukrainischen-praesidenten-w1259639-6001421423/",
+   "published": "2026-10-10T17:29:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "692009b99ac3075a923a3c0fbc250bc6",
+   "title": "Trump fordert Ablösung des ukrainischen Präsidenten",
+   "source": "Hellweger Anzeiger",
+   "link": "https://www.hellwegeranzeiger.de/dpa-infoline-zvr/trump-fordert-abloesung-des-ukrainischen-praesidenten-w1259639-1001794364/",
+   "published": "2026-10-10T17:29:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "b1db3b1a133e9519506bbc3f3ce377c7",
+   "title": "Trump fordert Ablösung des ukrainischen Präsidenten",
+   "source": "Bbv-net De",
+   "link": "https://www.bbv-net.de/dpa-infoline-zvr/trump-fordert-abloesung-des-ukrainischen-praesidenten-w1259639-6000643001/",
+   "published": "2026-10-10T17:29:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "6774e1df931682e4620035fa7f9a551a",
+   "title": "Trump fordert Ablösung des ukrainischen Präsidenten",
+   "source": "Westfälische Nachrichten",
+   "link": "https://www.wn.de/welt/politik/trump-fordert-abloesung-des-ukrainischen-praesidenten-3678284",
+   "published": "2026-10-10T17:28:11Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "e999b32b3f11fb599f3421ebf7545b2d",
+   "title": "Trump fordert Ablösung des ukrainischen Präsidenten",
+   "source": "Web.de",
+   "link": "https://web.de/magazine/politik/us-politik/trump-abloesung-ukrainischen-praesidenten-42821918",
+   "published": "2026-10-10T17:28:05Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "0cefb38328c4c10318c040ea12b315cc",
+   "title": "Trump fordert Ablösung des ukrainischen Präsidenten",
+   "source": "Bundle",
+   "link": "https://www.bundle.app/de/nachrichten/trump-fordert-ablosung-des-ukrainischen-prasidenten-198E0D44-8B42-5848-825F-6A0533CB54A0",
+   "published": "2026-10-10T17:28:05Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "dcbf761b260d5c2519e06ca40a04e110",
+   "title": "Social. Le dispositif d'aide aux vacances de la Caf victime d'une fuite de données, 1,2 million de dossiers concernés",
+   "source": "Dna Fr",
+   "link": "https://www.dna.fr/social/2026/10/10/le-dispositif-d-aide-aux-vacances-de-la-caf-victime-d-une-fuite-de-donnees-1-2-million-de-dossiers-concernes",
+   "published": "2026-10-10T17:28:00Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "35923b549b74386e0ccaac2028957e22",
+   "title": "Social. Le dispositif d'aide aux vacances de la Caf victime d'une fuite de données, 1,2 million de dossiers concernés",
+   "source": "Le Bien Public",
+   "link": "https://www.bienpublic.com/social/2026/10/10/le-dispositif-d-aide-aux-vacances-de-la-caf-victime-d-une-fuite-de-donnees-1-2-million-de-dossiers-concernes",
+   "published": "2026-10-10T17:28:00Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "cf8aa62308d8bc438672aeb5238bf60e",
+   "title": "Social. Le dispositif d'aide aux vacances de la Caf victime d'une fuite de données, 1,2 million de dossiers concernés",
+   "source": "Le Dauphine",
+   "link": "https://www.ledauphine.com/social/2026/10/10/le-dispositif-d-aide-aux-vacances-de-la-caf-victime-d-une-fuite-de-donnees-1-2-million-de-dossiers-concernes",
+   "published": "2026-10-10T17:28:00Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "a673391569ff184935097fc088f5bb89",
+   "title": "Social. Le dispositif d'aide aux vacances de la Caf victime d'une fuite de données, 1,2 million de dossiers concernés",
+   "source": "L'est Républicain",
+   "link": "https://www.estrepublicain.fr/social/2026/10/10/le-dispositif-d-aide-aux-vacances-de-la-caf-victime-d-une-fuite-de-donnees-1-2-million-de-dossiers-concernes",
+   "published": "2026-10-10T17:28:00Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "62dc0e6b643361657414a82f00c9cd9d",
+   "title": "Social. Le dispositif d'aide aux vacances de la Caf victime d'une fuite de données, 1,2 million de dossiers concernés",
+   "source": "Le Journal",
+   "link": "https://www.lejsl.com/social/2026/10/10/le-dispositif-d-aide-aux-vacances-de-la-caf-victime-d-une-fuite-de-donnees-1-2-million-de-dossiers-concernes",
+   "published": "2026-10-10T17:28:00Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "a8337f1e2216497dbdcc1d008604bf1c",
+   "title": "Trump appoints 'devoted fan' Katie Zacharia as new White House Press Secretary",
+   "source": "London Broadcasting Company",
+   "link": "https://www.lbc.co.uk/article/trump-appoints-devoted-fan-katie-zacharia-as-new-white-house-press-secretary-5HjdjjR_2/",
+   "published": "2026-10-10T17:27:40Z",
+   "country": "united kingdom",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "08351d2b21b6db4a49b4e5d312bdaafc",
+   "title": "ROBIN HARPER: I'm afraid the Green party I led has finally abandoned its core mission to save the planet",
+   "source": "Mail Online",
+   "link": "https://www.dailymail.com/news/article-16198923/ROBIN-HARPER-Im-afraid-Green-party-led-finally-abandoned-core-mission-save-planet.html",
+   "published": "2026-10-10T17:27:31Z",
+   "country": "united kingdom",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "a37b567b57234ef0c159daa427ee9c1f",
+   "title": "Reform will deport Afghan and Palestinian refugees",
+   "source": "The Telegraph",
+   "link": "https://www.telegraph.co.uk/politics/2026/10/10/reform-will-deport-afghan-and-palestinian-refugees/",
+   "published": "2026-10-10T17:27:16Z",
+   "country": "united kingdom",
+   "category": "politics",
+   "language": "english"
+  },
+  {
+   "id": "6e41936cf33e56510c9de63531d23a7f",
+   "title": "Trump fordert Ablösung des ukrainischen Präsidenten",
+   "source": "Schwäbischen Post",
+   "link": "https://www.schwaebische-post.de/welt/politik/trump-fordert-abloesung-des-ukrainischen-praesidenten-zr-94534721.html",
+   "published": "2026-10-10T17:27:14Z",
+   "country": "germany",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "36af8c3d8ef35a446f01061deafa619f",
+   "title": "La gratiféria de Chaligny, un succès entre inflation et solidarité",
+   "source": "Ici Par France Bleu",
+   "link": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/chaligny/la-gratiferia-de-chaligny-un-succes-entre-inflation-et-solidarite-8221976",
+   "published": "2026-10-10T17:27:02Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "8b4b159186cd339b3f26051027b082e2",
+   "title": "FPÖ in Stadl-Paura - „Zuerst den Landeschef, dann den Bundeskanzler“",
+   "source": "Kronen Zeitung",
+   "link": "https://www.krone.at/4328926",
+   "published": "2026-10-10T17:26:53Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "f9893bcc6cd6e4f138bb67aff08169dd",
+   "title": "Ils vont vendre 30 tonnes de pommes de terre en deux jours... La patate célébrée sous toutes ses formes à Matemale",
+   "source": "L'independent",
+   "link": "https://www.lindependant.fr/2026/10/10/ils-vont-vendre-30-tonnes-de-pommes-de-terre-en-deux-jours-la-patate-celebree-sous-toutes-ses-formes-a-matemale-13594766.php",
+   "published": "2026-10-10T17:26:47Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "b60afa7652ed69df3f5ecfe5767a22a6",
+   "title": "Vaucluse. Hausse du prix des carburants : à Orange, ces pépiniéristes en souffrance",
+   "source": "Le Dauphine",
+   "link": "https://www.ledauphine.com/economie/2026/10/10/serre-tramier-50-de-plus-pour-le-carburant-128-pour-le-gaz",
+   "published": "2026-10-10T17:26:00Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "156b2fae93866ba9f3216e2f70ac37b6",
+   "title": "Trump: „Zeit, dass Ukraine einen neuen Präsidenten bekommt“",
+   "source": "Kurier",
+   "link": "https://kurier.at/politik/ausland/donald-trump-ukraine-neuer-praesident-forderung-selenskij-russland/403197436",
+   "published": "2026-10-10T17:25:50Z",
+   "country": "austria",
+   "category": "politics",
+   "language": "german"
+  },
+  {
+   "id": "aadd61dca2326af0bd17f977a0dcb3c4",
+   "title": "Jean-Luc Mélenchon, candidat insoumis à la présidentielle, s'offre une visite du plateau de Gergovie",
+   "source": "Ici Par France Bleu",
+   "link": "https://www.ici.fr/auvergne-rhone-alpes/puy-de-dome-63/jean-luc-melenchon-candidat-insoumis-a-la-presidentielle-s-offre-une-visite-du-plateau-de-gergovie-1426540",
+   "published": "2026-10-10T17:25:29Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "5edaba363e491e9bbb5d43828ef91188",
+   "title": "Der „geimpfte Bolsanaro“ will Rache für seinen Vater [premium]",
+   "source": "Die Presse",
+   "link": "https://www.diepresse.com/41329873/der-geimpfte-bolsanaro-will-rache-fuer-seinen-vater",
+   "published": "2026-10-10T17:25:15Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "c79d6f9c73719eb86537e1c485275675",
+   "title": "Diese Reformen braucht der österreichische Wirtschaftsstandort – vieles funktioniert jedoch auch sehr gut [premium]",
+   "source": "Die Presse",
+   "link": "https://www.diepresse.com/41329768/diese-reformen-braucht-der-oesterreichische-wirtschaftsstandort-vieles-funktioniert-jedoch-auch-sehr-gut",
+   "published": "2026-10-10T17:25:01Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "a00654d214bae3b300ef8550099f022c",
+   "title": "Jetzt live: Gelingt dem HCD nach der Pleite gegen das Schlusslicht in Genf eine Reaktion?",
+   "source": "Südostschweiz",
+   "link": "https://www.suedostschweiz.ch/regionalsport/genf-gegen-davos-am-10-oktober-2026-2190273",
+   "published": "2026-10-10T17:25:00Z",
+   "country": "switzerland",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "012d9b15b5bd6c307cb00539e4de520c",
+   "title": "6 energy suppliers who will write off your bill debt ahead of January bill hike",
+   "source": "Birmingham Live",
+   "link": "https://www.birminghammail.co.uk/news/cost-of-living/6-energy-suppliers-who-write-34710644",
+   "published": "2026-10-10T17:25:00Z",
+   "country": "united kingdom",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "3755cd99d13deb9ae769eb4f1aacfb0f",
+   "title": "Donald Trump : \"C'est une décision honteuse\" Furieux de ne pas avoir reçu le prix Nobel de la paix, le président américain s'en prend au comité norvégien",
+   "source": "Ladepeche",
+   "link": "https://www.ladepeche.fr/2026/10/10/donald-trump-cest-une-decision-honteuse-furieux-de-ne-pas-avoir-recu-le-prix-nobel-de-la-paix-le-president-americain-sen-prend-au-comite-norvegien-13595017.php",
+   "published": "2026-10-10T17:24:47Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "e3bc023bbf476590db019ed42f21e33b",
+   "title": "Flydubai-Anschlag setzt Netanyahu kurz vor Wahl unter Druck",
+   "source": "Tages-anzeiger",
+   "link": "https://www.tagesanzeiger.ch/flydubai-anschlag-setzt-netanyahu-kurz-vor-wahl-unter-druck-619140265619",
+   "published": "2026-10-10T17:24:45Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "54b862378786e5374c631d0b6d223495",
+   "title": "Sobieski und die Schlacht um Wien [premium]",
+   "source": "Die Presse",
+   "link": "https://www.diepresse.com/41341100/sobieski-und-die-schlacht-um-wien",
+   "published": "2026-10-10T17:23:54Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "ea614ba6db909b7c4dcceb234478dbfc",
+   "title": "Solana Whale Moves $51M in SOL to Coinbase Amid Price Drop",
+   "source": "Econotimes",
+   "link": "https://econotimes.com/Solana-Whale-Moves-51M-in-SOL-to-Coinbase-Amid-Price-Drop-1754542",
+   "published": "2026-10-10T17:23:44Z",
+   "country": "japan",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "dbaeee5b33d96e2bfe39f6aece0216b2",
+   "title": "Group of around 20 men reported making teenage girls feel uneasy",
+   "source": "Plymouth Live",
+   "link": "https://www.plymouthherald.co.uk/news/plymouth-news/group-around-20-men-reported-11193684",
+   "published": "2026-10-10T17:23:10Z",
+   "country": "united kingdom",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "2b5397d81e2962a342173eaf6a933b94",
+   "title": "Hackerangriffe: Das Dilemma der Digitalisierung",
+   "source": "Frankfurther Allgemeine Zeitung",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/hackerangriffe-auf-die-verwaltung-das-dilemma-mit-der-digitalisierung-201300619.html",
+   "published": "2026-10-10T17:23:03Z",
+   "country": "germany",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "93d06496344021c89afac60e4f8020f3",
+   "title": "Group of around 20 men reported making teenage girls feel uneasy - Plymouth Live",
+   "source": "Google News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZUl0NXplR09scU1ubXJZQnRSamJGZzNVN213NlVQR0xETTNweV9iel9fVGNmb0FMMndxYzNsM0dXbFdhWHd2V0gyWmI3dEFtelJ2X00tQXhFRW9sWnpBZUk4SWZDcFdVY3FIdVJsVTJMYnhiSkNKc2FVZTlESEpDYnM3VmZLNW5uVWZVSEYwT0Z0eEHSAZgBQVVfeXFMTXNiXzFYVlIxR2V5R2xtbk9QRkZQZzF3dzFNQ0dzaDRiN3BMcXRZQldrYWVtU0I3LTFCNkRvM2hqYjYtWWVSd0lTR1p2ZWtFQnB6anY0OHc3cE11VDFGZjdRTFVYdzBuUVpDcC05ZTY0SkxQZUpvX1dlUTJKR3lSbjN0SC1HMlEtM09JNGtQT2hVRS1nX19YcEY?oc=5",
+   "published": "2026-10-10T17:23:00Z",
+   "country": "united kingdom",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "e3775bdf2221de2d6393c5c14cb5f3e7",
+   "title": "CIA ‘gave journalist Viagra’ after he was freed from Russian jail",
+   "source": "The Telegraph",
+   "link": "https://www.telegraph.co.uk/world-news/2026/10/10/cia-gave-journalist-viagra-after-he-was-freed-from-russia/",
+   "published": "2026-10-10T17:22:16Z",
+   "country": "united kingdom",
+   "category": "politics",
+   "language": "english"
+  },
+  {
+   "id": "d0fbbb91efa6ea93bf1675567df561be",
+   "title": "Belfort. Prix du carburant, stress, usure des véhicules : Territoire Habitat forme ses employés à l’éco-conduite",
+   "source": "L'est Républicain",
+   "link": "https://www.estrepublicain.fr/economie/2026/10/10/prix-du-carburant-stress-usure-des-vehicules-territoire-habitat-forme-ses-employes-a-l-eco-conduite",
+   "published": "2026-10-10T17:22:00Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "b8ab6491e8c4ebc7ceee96757207bdac",
+   "title": "Gegen Putins Schattenkrieg zählen Spione mehr als Panzer [premium]",
+   "source": "Die Presse",
+   "link": "https://www.diepresse.com/41344038/gegen-putins-schattenkrieg-zaehlen-spione-mehr-als-panzer",
+   "published": "2026-10-10T17:21:39Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "fe05696c88f12db66ef677bf4eb35c8b",
+   "title": "Plusieurs blessés lors d'une attaque à l'aéroport de Riyad ; les opérations ont été suspendues, selon les autorités aériennes saoudiennes",
+   "source": "Boursorama",
+   "link": "https://www.boursorama.com/bourse/actualites/plusieurs-blesses-lors-d-une-attaque-a-l-aeroport-de-riyad-les-operations-ont-ete-suspendues-selon-les-autorites-aeriennes-saoudiennes-f9ee2b4a236b707d91f6acaff3ddcb30",
+   "published": "2026-10-10T17:20:56Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "d9b2e8d5164405819feadf90caa3880e",
+   "title": "Steve Hilton's British accent is just the least of his problems. The odds are against him. Yet his audacious bid to be governor of failed-state California should give every Republican hope",
+   "source": "Mail Online",
+   "link": "https://www.dailymail.com/news/article-16196323/Steve-Hilton-failed-state-California-audacious-bid-governor-Republican-hope.html",
+   "published": "2026-10-10T17:20:51Z",
+   "country": "united kingdom",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "52268fc4d2a94f2d064a26a8e1499c7a",
+   "title": "Umbau der Iburger Straße startet am Montag – was sich konkret ändern soll",
+   "source": "Noz",
+   "link": "https://www.noz.de/lokales/osnabrueck/artikel/iburger-strasse-in-osnabrueck-umbau-startet-am-12-oktober-51570569",
+   "published": "2026-10-10T17:20:00Z",
+   "country": "germany",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "b31125097299f8ca440d2e2084236fd3",
+   "title": "Viele Tote nach russischen Angriffen in Saporischschja",
+   "source": "Salzburger Nachrichten",
+   "link": "https://www.sn.at/politik/weltpolitik/viele-tote-nach-russischen-angriffen-in-saporischschja-art-677591",
+   "published": "2026-10-10T17:20:00Z",
+   "country": "austria",
+   "category": "politics",
+   "language": "german"
+  },
+  {
+   "id": "b1a632121311244806e8a8e2d1be88eb",
+   "title": "Nach Skydance-Übernahme: Zeiler gibt seinen Abgang bekannt",
+   "source": "Loma News",
+   "link": "https://lomazoma.com/nach-skydance-uebernahme-zeiler-gibt-seinen-abgang-bekannt/",
+   "published": "2026-10-10T17:19:51Z",
+   "country": "germany",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "b10bcaf6b2f434992b3de8ead043d764",
+   "title": "Up 31% in 6 months! Can Greggs shares hit 2,300p in 2027?",
+   "source": "Fool Uk",
+   "link": "https://www.twelfthmagpie.com/2026/10/10/up-31-in-6-months-can-greggs-shares-hit-2300p-in-2027/",
+   "published": "2026-10-10T17:19:10Z",
+   "country": "united kingdom",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "9d05b4f43494475f5aa7a75053c3fc69",
+   "title": "Wienerberger Aktie: UBS stockt Anteil auf 4,09 Prozent",
+   "source": "Ad-hoc-news",
+   "link": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/wienerberger-aktie-ubs-stockt-anteil-auf-4-09-prozent/70289431",
+   "published": "2026-10-10T17:18:51Z",
+   "country": "germany",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "2cd72ba67e01c827240b393a18ec7b7a",
+   "title": "Lille assure le service minimum face au Havre et devient leader de Ligue 1",
+   "source": "Boursorama",
+   "link": "https://www.boursorama.com/actualite-economique/actualites/lille-assure-le-service-minimum-face-au-havre-et-devient-leader-de-ligue-1-c435a77198d2c659dc82edecf248b048",
+   "published": "2026-10-10T17:18:49Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "a93681724fea1d5e6bd2ae835d1d092f",
+   "title": "Étival-Clairefontaine | Mariage. Samantha et Jonathan",
+   "source": "Vosges Matin",
+   "link": "https://www.vosgesmatin.fr/societe/2026/10/10/samantha-et-jonathan",
+   "published": "2026-10-10T17:17:19Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "2b50844dc64c4efc4c587c1d39a3b130",
+   "title": "Senones. Jumelage : trois jours de rencontres et d’amitié",
+   "source": "Vosges Matin",
+   "link": "https://www.vosgesmatin.fr/societe/2026/10/10/jumelage-trois-jours-de-rencontres-et-d-amitie",
+   "published": "2026-10-10T17:17:19Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "439c96952852c06445fad9e981bb5e48",
+   "title": "Yanis Balit (OFT GROUPE) : OFT GROUPE, acteur global de la construction - 10/10",
+   "source": "Bfm Tv",
+   "link": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-yanis-balit-oft-groupe-oft-groupe-acteur-global-de-la-construction-10-10_VN-202610100331.html",
+   "published": "2026-10-10T17:17:02Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "4010afbdb345f239556699e46a17f72c",
+   "title": "Richter: „Arbeiten wie in Sechstagewoche“",
+   "source": "Orf",
+   "link": "https://ooe.orf.at/stories/3374648/",
+   "published": "2026-10-10T17:15:00Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "dbd2ac1645d888a40f3ac538dc2ab87b",
+   "title": "»Tatort: Unter Freunden«",
+   "source": "Oe24",
+   "link": "https://www.oe24.at/a/tatort-unter-freunden-900122354",
+   "published": "2026-10-10T17:14:00Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "6d56bcdf8de5d59e38d2968d77f50a12",
+   "title": "This Viral Thread About Why Some Working Women Are Happier After Divorce Perfectly Explains The Unfair Expectations Some Men Have",
+   "source": "Buzzfeed",
+   "link": "https://www.buzzfeed.com/kristatorres/men-who-have-unfair-expectations",
+   "published": "2026-10-10T17:12:21Z",
+   "country": "united kingdom",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "f940535e86a9b254b6515e4d33e2e020",
+   "title": "Several arrests made as thousands descend on London for pro-Palestine protest",
+   "source": "Stroud News And Journal",
+   "link": "https://www.stroudnewsandjournal.co.uk/news/national/26625460.several-arrests-made-thousands-descend-london-pro-palestine-protest/",
+   "published": "2026-10-10T17:12:18Z",
+   "country": "united kingdom",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "d6db6757df8373d732b2081586648540",
+   "title": "«Es ist Zeit für einen neuen Präsidenten in der Ukraine!»",
+   "source": "Blick",
+   "link": "https://www.blick.ch/ausland/trump-will-selenski-nach-diesel-deal-mit-putin-loswerden/hw4wmnj",
+   "published": "2026-10-10T17:12:00Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "5d87500db3844b9be0559973e81372bf",
+   "title": "\"Zeit für neuen Präsidenten!\": Trump will Selenskyj loswerden",
+   "source": "Oe24",
+   "link": "https://www.oe24.at/a/zeit-fuer-neuen-praesidenten-trump-will-selenskyj-loswerden-900122836",
+   "published": "2026-10-10T17:10:24Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "8a3df5fb3ae8ca48cb2203084efe9946",
+   "title": "Brauchte dringend Geld - Brisante Chats belasten Trump-Botschafterin",
+   "source": "Kronen Zeitung",
+   "link": "https://www.krone.at/4328885",
+   "published": "2026-10-10T17:09:11Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "fc618edc06d2397821eb0b6c70fe1432",
+   "title": "Putin wird laut Trump Diesel für die USA und den Weltmarkt liefern",
+   "source": "Tiroler Tageszeitung",
+   "link": "https://www.tt.com/artikel/30944261/putin-wird-laut-trump-diesel-fuer-die-usa-und-den-weltmarkt-liefern",
+   "published": "2026-10-10T17:04:39Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "bfea9c9073721566ba3757badfbe1ba8",
+   "title": "Frau aus den USA bringt nach 20 Fehlgeburten einen Sohn zur Welt",
+   "source": "Blick",
+   "link": "https://www.blick.ch/ausland/nach-20-fehlgeburten-bringt-frau-aus-den-usa-einen-sohn-zur-welt/yt1pygc",
+   "published": "2026-10-10T17:02:27Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "cdec985a7e1e18ff1807627ed9d901e7",
+   "title": "Neues Regenwaldhaus sperrt erst 2027 auf",
+   "source": "Orf",
+   "link": "https://wien.orf.at/stories/3374691/",
+   "published": "2026-10-10T17:02:00Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "581b19e6563ac52b8dc23dc1584adc0e",
+   "title": "Bob Mackie: Todesursache des Star-Designers enthüllt",
+   "source": "Oe24",
+   "link": "https://www.oe24.at/a/bob-mackie-todesursache-des-star-designers-enthuellt-900122835",
+   "published": "2026-10-10T17:00:58Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "aebf3c0d12f8905714a82f4aca5a8dd2",
+   "title": "Besuch in Marokko - Die große Suche nach dem grünen Wasserstoff",
+   "source": "Kronen Zeitung",
+   "link": "https://www.krone.at/4327999",
+   "published": "2026-10-10T17:00:38Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "7269e338d7b6097943563732c89ef734",
+   "title": "„Stillstand“ im Bund - „Neuwahlen!“ Kunasek sieht Dreierkoalition am Ende",
+   "source": "Kronen Zeitung",
+   "link": "https://www.krone.at/4328039",
+   "published": "2026-10-10T17:00:13Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "9690d8c12f1b82f8403eef3c360b9a36",
+   "title": "Interview mit Carmen Reinhart: Droht eine Finanzkrise? «Es gibt zwei Gefahren, eine unmittelbar bedrohliche und eine schleichende»",
+   "source": "Bz Berner Zeitung",
+   "link": "https://www.bernerzeitung.ch/carmen-reinhart-der-ki-boom-ist-eine-blase-792085772668",
+   "published": "2026-10-10T16:58:28Z",
+   "country": "switzerland",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "627a5e6aa8e95d426c05cc05f8432c5a",
+   "title": "Interview mit Carmen Reinhart: Droht eine Finanzkrise? «Es gibt zwei Gefahren, eine unmittelbar bedrohliche und eine schleichende»",
+   "source": "Derbund",
+   "link": "https://www.derbund.ch/carmen-reinhart-der-ki-boom-ist-eine-blase-792085772668",
+   "published": "2026-10-10T16:58:28Z",
+   "country": "switzerland",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "c2d5e592a6b3259d8e55b731c89d9d36",
+   "title": "Bullen patzen nach XXL-Pause beim GAK",
+   "source": "Oe24",
+   "link": "https://www.oe24.at/a/bullen-patzen-nach-xxl-pause-beim-gak-900122831",
+   "published": "2026-10-10T16:52:48Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "b47a338f31cc2153c3370fab3f00d0d0",
+   "title": "Zürich: Pro-Palästina-Demo zog durch die Stadt",
+   "source": "Tages-anzeiger",
+   "link": "https://www.tagesanzeiger.ch/zuerich-pro-palaestina-demo-zog-durch-die-stadt-986083626205",
+   "published": "2026-10-10T16:49:31Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "c12c79e84bb7f3795e292f5cb3650ae3",
+   "title": "Ständemehr-Streit: SVP attackiert Marianne Binder",
+   "source": "Tages-anzeiger",
+   "link": "https://www.tagesanzeiger.ch/staendemehr-streit-svp-attackiert-marianne-binder-378068069162",
+   "published": "2026-10-10T16:45:21Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "3535915033c5d035891d6ec3224f13a4",
+   "title": "SVP-Bundesrat: Esther Friedlis Absage öffnet Männern die Tür",
+   "source": "Tages-anzeiger",
+   "link": "https://www.tagesanzeiger.ch/svp-bundesrat-esther-friedlis-absage-oeffnet-maennern-die-tuer-678560708187",
+   "published": "2026-10-10T16:44:30Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "a42f9425d472c74412d1b74b56d37172",
+   "title": "Nachfolge von Guy Parmelin: Esther Friedlis Absage öffnet den Männern in der SVP die Tür zum Bundesrat",
+   "source": "Bz Berner Zeitung",
+   "link": "https://www.bernerzeitung.ch/svp-bundesrat-esther-friedlis-absage-oeffnet-maennern-die-tuer-678560708187",
+   "published": "2026-10-10T16:44:30Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "3c9d6d3a01dee624eccc662119554bc9",
+   "title": "Nachfolge von Guy Parmelin: Esther Friedlis Absage öffnet den Männern in der SVP die Tür zum Bundesrat",
+   "source": "Der Bund",
+   "link": "https://www.derbund.ch/svp-bundesrat-esther-friedlis-absage-oeffnet-maennern-die-tuer-678560708187",
+   "published": "2026-10-10T16:44:30Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "e6c3a2ba8a836fbba812c41f58f75a2c",
+   "title": "Gaza-Solidaritätsdemonstration in Lausanne mit Sachbeschädigungen",
+   "source": "Hoefner",
+   "link": "https://www.keystone-sda.ch/20261010183927002194158159026",
+   "published": "2026-10-10T16:39:00Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "58a29dde15051f694e1a0cb509bc97ec",
+   "title": "Abbas verschiebt Parlaments- und Präsidentenwahl",
+   "source": "Cash",
+   "link": "https://www.cash.ch/news/abbas-verschiebt-parlaments-und-prasidentenwahl-975651",
+   "published": "2026-10-10T16:32:45Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "f1a0ea19cf40cd9f2240726038f3f8e5",
+   "title": "Streit um EU-Haushalt: Merz lehnt auch neuen Vorschlag ab",
+   "source": "Cash",
+   "link": "https://www.cash.ch/news/streit-um-eu-haushalt-merz-lehnt-auch-neuen-vorschlag-ab-975648",
+   "published": "2026-10-10T16:27:18Z",
+   "country": "switzerland",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "7f65adc45a8c2940bc0678ad2fb1996a",
+   "title": "Autoren publizieren selbst – Bücher herausgeben ist einfach – Erfolg haben weniger",
+   "source": "Srf",
+   "link": "https://www.srf.ch/news/wirtschaft/autoren-publizieren-selbst-buecher-herausgeben-ist-einfach-erfolg-haben-weniger",
+   "published": "2026-10-10T16:02:27Z",
+   "country": "switzerland",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "821a9f9b215a12b4a78d034f7aafcf0a",
+   "title": "Nur Stunden nach der Hochzeit kam die Hinrichtung: Die Geschichte des iranischen Liebespaars Alireza und Mahshad",
+   "source": "Nzz",
+   "link": "https://www.nzz.ch/international/nur-stunden-nach-der-hochzeit-kam-die-hinrichtung-die-geschichte-des-iranischen-liebespaars-alireza-und-mahshad-ld.10027998",
+   "published": "2026-10-10T15:38:00Z",
+   "country": "switzerland",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "404de097a85f610ddcdbe5a94b34cc3b",
+   "title": "Digitalwährungen im Fokus: So bewegen sich Bitcoin & Co. am Nachmittag",
+   "source": "Finanzen.ch",
+   "link": "https://www.finanzen.ch/nachrichten/devisen/digitalwahrungen-im-fokus-so-bewegen-sich-bitcoin-&-co-am-nachmittag-1036614400",
+   "published": "2026-10-10T15:23:14Z",
+   "country": "switzerland",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "8b654c39feaf494b4ab54b20493a9519",
+   "title": "Gemeinde rechnet mit knapp 170’000 Franken Defizit",
+   "source": "Appenzell24",
+   "link": "https://appenzell24.ch/news/gemeinde-rechnet-mit-knapp-170000-franken-defizit/",
+   "published": "2026-10-10T14:12:00Z",
+   "country": "switzerland",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "2ec63817c2823fdec230639ae7f94dec",
+   "title": "ÖV-Branche wollte Tarife noch drastischer erhöhen",
+   "source": "Blick",
+   "link": "https://www.blick.ch/wirtschaft/oev-tarife-schweiz-warum-das-ga-nicht-noch-teurer-wird/949yt1f",
+   "published": "2026-10-10T14:06:54Z",
+   "country": "switzerland",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "1055df21fa440889988befae75962d0b",
+   "title": "Studie: Alle europäischen Autobauer schaffen Emissionsziele bis 2027",
+   "source": "Cash",
+   "link": "https://www.cash.ch/news/top-news/studie-alle-europaischen-autobauer-schaffen-emissionsziele-bis-2027-974102",
+   "published": "2026-10-10T14:05:00Z",
+   "country": "switzerland",
+   "category": "business",
+   "language": "german"
+  },
   {
    "id": "6604501132acd468dbd45cdbfc312beb",
    "title": "Deutschlands Abschied vom Fliegen",
@@ -375,16 +1445,6 @@
    "language": "english"
   },
   {
-   "id": "5ce10063d37c6a059fcef9191ab7f914",
-   "title": "Für Wiens Flughafenchef ist die „Ticketsteuer ein Schuss ins eigene Knie“",
-   "source": "Die Presse",
-   "link": "https://www.diepresse.com/41343231/fuer-wiens-flughafenchef-ist-die-ticketsteuer-ein-schuss-ins-eigene-knie",
-   "published": "2026-10-10T08:23:12Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
    "id": "290d319fa6fa03524c71876c498d3dcb",
    "title": "Plus de 70.000 personnes ont déjà voté pour la primaire de la gauche, qui se prolonge jusqu’à dimanche soir",
    "source": "Le Figaro",
@@ -582,16 +1642,6 @@
    "published": "2026-10-10T08:21:00Z",
    "country": "germany",
    "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "415f2bcce2dedcbdc7b05bdc751b77e2",
-   "title": "Ein sehr gutes Quiz (mit hoher Gewinnsumme)",
-   "source": "Oe24",
-   "link": "https://www.oe24.at/a/ein-sehr-gutes-quiz-mit-hoher-gewinnsumme-900122432",
-   "published": "2026-10-10T08:21:00Z",
-   "country": "austria",
-   "category": "business",
    "language": "german"
   },
   {
@@ -825,16 +1875,6 @@
    "language": "german"
   },
   {
-   "id": "bd8b46bf96e8314b34772693777cbf7f",
-   "title": "FALLWICKL hat ein Haus für uns alle erbaut",
-   "source": "Oe24",
-   "link": "https://www.oe24.at/a/fallwickl-hat-ein-haus-fuer-uns-alle-erbaut-900121230",
-   "published": "2026-10-10T08:13:00Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
    "id": "4c426ef00319a1c2ca51eca0a972a52a",
    "title": "Renault met sa production en série au service des drones militaires",
    "source": "Rtbf",
@@ -843,26 +1883,6 @@
    "country": "belgium",
    "category": "business",
    "language": "french"
-  },
-  {
-   "id": "a0012a89bf7d24876009fa59d10fde1d",
-   "title": "„Wenn einer sagt, du spinnst, kann es sein, dass du auf einer Goldader unterwegs bist“ [premium]",
-   "source": "Die Presse",
-   "link": "https://www.diepresse.com/41342861/wenn-einer-sagt-du-spinnst-kann-es-sein-dass-du-auf-einer-goldader-unterwegs-bist",
-   "published": "2026-10-10T08:09:17Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "29b9ed6eb1fb089b282c29a42f2b776f",
-   "title": "Sonnentor-Gründer: „Wenn einer sagt, du spinnst, kann es sein, dass du auf einer Goldader unterwegs bist“ [premium]",
-   "source": "Die Presse",
-   "link": "https://www.diepresse.com/41342861/sonnentor-gruender-wenn-einer-sagt-du-spinnst-kann-es-sein-dass-du-auf-einer-goldader-unterwegs-bist",
-   "published": "2026-10-10T08:09:17Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
   },
   {
    "id": "29ee0bb0efe47fff8b9d1eee1089e997",
@@ -915,16 +1935,6 @@
    "language": "german"
   },
   {
-   "id": "877d034e973207d3698b010ed37a02a9",
-   "title": "Mehr als hundert Ziele der Houthi-Miliz im Jemen zerstört",
-   "source": "Die Presse",
-   "link": "https://www.diepresse.com/41343215/mehr-als-hundert-ziele-der-houthi-miliz-im-jemen-zerstoert",
-   "published": "2026-10-10T08:05:30Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
    "id": "439f404617ab3af277f0bf2ebbdb840f",
    "title": "De retour sur la Terre ferme, l'astronaute Sophie Adenot passe par \"toutes les émotions\"",
    "source": "Boursorama",
@@ -963,26 +1973,6 @@
    "country": "france",
    "category": "business",
    "language": "french"
-  },
-  {
-   "id": "7412b2eb8fd0b359e218f5ef4afb2ca5",
-   "title": "Opposition erzürnt - „Familien wird leistbarer Wohnraum entzogen“",
-   "source": "Kronen Zeitung",
-   "link": "https://www.krone.at/4327220",
-   "published": "2026-10-10T08:00:56Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "9878cef88864808ad5e6c93e492e10a8",
-   "title": "Keine Frage! - Glauben Sie auch an eine Wiedergeburt?",
-   "source": "Kronen Zeitung",
-   "link": "https://www.krone.at/4325396",
-   "published": "2026-10-10T08:00:39Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
   },
   {
    "id": "6e7e1b744846d228c1c96ab2ac190629",
@@ -1065,16 +2055,6 @@
    "language": "german"
   },
   {
-   "id": "15a6b046b6005538202ea0a3f5d37406",
-   "title": "Bitcoin, Ethereum, Ripple & Co.: Wie sich die Kryptokurse am Samstagvormittag entwickeln",
-   "source": "Finanzen.ch",
-   "link": "https://www.finanzen.ch/nachrichten/devisen/bitcoin-ethereum-ripple-&-co-wie-sich-die-kryptokurse-am-samstagvormittag-entwickeln-1036614291",
-   "published": "2026-10-10T07:48:20Z",
-   "country": "switzerland",
-   "category": "business",
-   "language": "german"
-  },
-  {
    "id": "9fc73900c4cd0dcdd78020620656e001",
    "title": "Angriffe auf russisches Öl führten zu Trump-Putin-Deal",
    "source": "Blick",
@@ -1130,26 +2110,6 @@
    "source": "Der Bund",
    "link": "https://www.derbund.ch/esther-friedli-svp-staenderaetin-kandidiert-nicht-fuer-bundesrat-632437014867",
    "published": "2026-10-10T07:38:30Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "2c5ff763683fcf48ebfdc2a5ccf96672",
-   "title": "Bundestagskommission: EU sollte bei China \"gegenschlagsfähig\" sein",
-   "source": "Cash",
-   "link": "https://www.cash.ch/news/bundestagskommission-eu-sollte-bei-china-gegenschlagsfahig-sein-975603",
-   "published": "2026-10-10T07:22:48Z",
-   "country": "switzerland",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "846755bfb200eb5cb5516b9b8a802824",
-   "title": "Telebielingue sendet nach Konzessionsverlust als TB2 weiter",
-   "source": "Cash",
-   "link": "https://www.cash.ch/news/telebielingue-sendet-nach-konzessionsverlust-als-tb2-weiter-975597",
-   "published": "2026-10-10T07:00:38Z",
    "country": "switzerland",
    "category": "top",
    "language": "german"
@@ -1535,16 +2495,6 @@
    "language": "english"
   },
   {
-   "id": "768d66b9c6601aa59cbdee7548d1b6d6",
-   "title": "Schon ab Oktober - Fernwärme: 30 Prozent Rabatt, aber Heizen teurer",
-   "source": "Kronen Zeitung",
-   "link": "https://www.krone.at/4327232",
-   "published": "2026-10-10T03:15:47Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
    "id": "4f4ca414728de8fd0806ead78c643da6",
    "title": "Terry Wheeler, Founder & CEO of WE Alliance Wealth Advisors, Discusses the Investment Blind Spot on TMJ4’s The Morning Blend",
    "source": "Virginislandsdailynews",
@@ -1705,16 +2655,6 @@
    "language": "german"
   },
   {
-   "id": "1fd9c79240523f9deee32fdd68cdc68e",
-   "title": "Kein Biowaffen-Hinweis nach Tod von Forscherin in Sibirien",
-   "source": "Salzburger Nachrichten",
-   "link": "https://www.sn.at/politik/weltpolitik/kein-biowaffen-hinweis-nach-tod-von-forscherin-in-sibirien-art-677576",
-   "published": "2026-10-10T03:05:00Z",
-   "country": "austria",
-   "category": "politics",
-   "language": "german"
-  },
-  {
    "id": "8da8b3c89c5400f6ff4afa57abba5226",
    "title": "US warns China over destabilising activity near Taiwan",
    "source": "Bne Intellinews",
@@ -1869,16 +2809,6 @@
    "title": "Das liebe Geld und wenn Kinder Fragen darüber stellen",
    "source": "Kurier",
    "link": "https://kurier.at/wirtschaft/karriere/geld-kinder-erziehung-sparen-taschengeld/403196964",
-   "published": "2026-10-10T03:00:00Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "91024b76b3f54edbeaaf5956b43569b4",
-   "title": "Frutura-Chef: „Ich sage das jetzt öffentlich, weil es reicht“",
-   "source": "Kurier",
-   "link": "https://kurier.at/wirtschaft/manfred-hohensinner-frutura-neudau-bad-blumau-geothermie/403196975",
    "published": "2026-10-10T03:00:00Z",
    "country": "austria",
    "category": "business",
@@ -2115,36 +3045,6 @@
    "language": "english"
   },
   {
-   "id": "50e5b179d149d61d915ff4b24a985840",
-   "title": "EU-Vorsitz präsentiert neuen Budget-Vorschlag",
-   "source": "Tiroler Tageszeitung",
-   "link": "https://www.tt.com/artikel/30944214/eu-vorsitz-praesentiert-neuen-budget-vorschlag",
-   "published": "2026-10-10T02:44:23Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "694746efd76db0ece1f1881053fb20f8",
-   "title": "Herr Präsident, ist die jährliche Ski-WM noch Thema?",
-   "source": "Oe24",
-   "link": "https://www.oe24.at/a/herr-praesident-ist-die-jaehrliche-ski-wm-noch-thema-900121270",
-   "published": "2026-10-10T02:15:00Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "d147041920e59c9c4d1e4b6e0011878b",
-   "title": "Milliarden-Hit in Linz! Liverpools 1,09-Milliarden-Kader rockt die Gugl",
-   "source": "Oe24",
-   "link": "https://www.oe24.at/a/milliarden-hit-in-linz-liverpools-1-09-milliarden-kader-rockt-die-gugl-900122738",
-   "published": "2026-10-10T02:00:00Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
    "id": "0afd726a08b57870b39a7827bf511d16",
    "title": "EN DIRECT, guerre en Ukraine : l’accord entre Moscou et Washington sur le pétrole russe est une « décision indigne » et « faible », fustige Volodymyr Zelensky",
    "source": "Le Monde",
@@ -2183,16 +3083,6 @@
    "country": "united states of america",
    "category": "business",
    "language": "english"
-  },
-  {
-   "id": "da1b52c45c991a44da6f33f472bc3606",
-   "title": "Des discussions \"constructives\" entre les États-Unis et l'Ukraine sous l'ombre de l'accord Trump-Poutine",
-   "source": "Boursorama",
-   "link": "https://www.boursorama.com/actualite-economique/actualites/des-discussions-constructives-entre-les-etats-unis-et-l-ukraine-sous-l-ombre-de-l-accord-trump-poutine-6e04726626e067453729acec772101c0",
-   "published": "2026-10-09T22:28:29Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
   },
   {
    "id": "4d41c223458942da727bd70084051e26",
@@ -2425,16 +3315,6 @@
    "language": "english"
   },
   {
-   "id": "5cfd49df002ee6e34942cd9669baf7e4",
-   "title": "Un sous-traitant de Super Micro plaide coupable dans une affaire de détournement vers la Chine de serveurs d'IA équipés de puces Nvidia",
-   "source": "Boursorama",
-   "link": "https://www.boursorama.com/bourse/actualites/un-sous-traitant-de-super-micro-plaide-coupable-dans-une-affaire-de-detournement-vers-la-chine-de-serveurs-d-ia-equipes-de-puces-nvidia-4c76a66608a5f6609b5d0e96f422c2b9",
-   "published": "2026-10-09T22:23:04Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
-  },
-  {
    "id": "94ef2cdffa0e9154abd8491ba343442d",
    "title": "CSU-Vize Weber: Brandmauer ist für Union „Riesenbelastung“",
    "source": "Die Harke",
@@ -2513,16 +3393,6 @@
    "country": "united kingdom",
    "category": "top",
    "language": "english"
-  },
-  {
-   "id": "78ff6156e1798a749fd3bc11af3e0f49",
-   "title": "Amazon Aktie: Alexa-Chef wechselt",
-   "source": "Ad-hoc-news",
-   "link": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/amazon-aktie-alexa-chef-wechselt/70284267",
-   "published": "2026-10-09T22:20:33Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
   },
   {
    "id": "74f459fdc2490d604ff78633189483da",
@@ -2845,16 +3715,6 @@
    "language": "german"
   },
   {
-   "id": "b8e1f101930088be0152aadee22d5e15",
-   "title": "«Schweizer Staat zu aufwendig, langsam und kompliziert»",
-   "source": "Blick",
-   "link": "https://www.blick.ch/wirtschaft/medtech-branche-raphael-laubscher-will-eu-rahmenabkommen/f94cgkk",
-   "published": "2026-10-09T22:04:03Z",
-   "country": "switzerland",
-   "category": "business",
-   "language": "german"
-  },
-  {
    "id": "2332bf1874b9941bee054d6aac431319",
    "title": "Kurs auf Rot-Rot-Grün in Mecklenburg-Vorpommern",
    "source": "Rhein-zeitung",
@@ -2871,16 +3731,6 @@
    "link": "https://www.kn-online.de/schleswig-holstein/aktuelle-baustellen-im-kreis-steinburg-heute-10-oktober-2026-AAZID5ZL5NECZMEDPHWOM3Y3EY.html",
    "published": "2026-10-09T22:03:53Z",
    "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "5fd6bb2a8f4aa31d0eac115135de4cda",
-   "title": "WERBUNG - Mehr ruhige Momente. Mehr von dem, was zählt.",
-   "source": "Kronen Zeitung",
-   "link": "https://www.krone.at/4312421",
-   "published": "2026-10-09T22:01:23Z",
-   "country": "austria",
    "category": "business",
    "language": "german"
   },
@@ -2945,16 +3795,6 @@
    "language": "german"
   },
   {
-   "id": "4664db44623574e4747ffe3630acc10f",
-   "title": "Mehr AHV, mehr Armee – warum diese Rechnung nicht aufgeht",
-   "source": "Blick",
-   "link": "https://www.blick.ch/politik/13-ahv-aufruestung-der-armee-aber-niemand-will-zahlen/wc6b1d2",
-   "published": "2026-10-09T21:59:15Z",
-   "country": "switzerland",
-   "category": "business",
-   "language": "german"
-  },
-  {
    "id": "229dc378377844aac571b73eecdc0655",
    "title": "Mobilisation lycéenne: \"Il faut un débouché politique et si possible dans le cadre du débat budgétaire en cours\", estime Laurent Baumel, député \"Socialistes et apparentés\" de l'Indre-et-Loire",
    "source": "Bfm Tv",
@@ -2965,36 +3805,6 @@
    "language": "french"
   },
   {
-   "id": "69efe0fd1f75a08848dc85f21afcd18e",
-   "title": "Sellners Remigrations-Plan: Blaupause für AfD in Sachsen-Anhalt",
-   "source": "Tages-anzeiger",
-   "link": "https://www.tagesanzeiger.ch/sellners-remigrations-plan-blaupause-fuer-afd-in-sachsen-anhalt-467428250615",
-   "published": "2026-10-09T21:14:58Z",
-   "country": "switzerland",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "0ba7d25fdc9723aa12fe9983eecee918",
-   "title": "AfD in Sachsen-Anhalt: Martin Sellner will Sachsen-Anhalt zum Musterland für «Remigration» machen",
-   "source": "Derbund",
-   "link": "https://www.derbund.ch/sellners-remigrations-plan-blaupause-fuer-afd-in-sachsen-anhalt-467428250615",
-   "published": "2026-10-09T21:14:58Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "a69e62032d10cc5f08c384d24c36bc83",
-   "title": "AfD in Sachsen-Anhalt: Martin Sellner will Sachsen-Anhalt zum Musterland für «Remigration» machen",
-   "source": "Bz Berner Zeitung",
-   "link": "https://www.bernerzeitung.ch/sellners-remigrations-plan-blaupause-fuer-afd-in-sachsen-anhalt-467428250615",
-   "published": "2026-10-09T21:14:58Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
    "id": "eeae1bb37b41b30d046c2623028b6fb3",
    "title": "Bundesratswahl – Parmelin-Nachfolge: Esther Friedli verzichtet",
    "source": "Srf",
@@ -3002,16 +3812,6 @@
    "published": "2026-10-09T21:09:03Z",
    "country": "switzerland",
    "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "1885effc7a7d646820c891b242b3fba5",
-   "title": "«Arena» zu Verkehr – Politik streitet über Röstis Ausbaupläne für Schiene und Strasse",
-   "source": "Srf",
-   "link": "https://www.srf.ch/news/schweiz/arena-zu-verkehr-politik-streitet-ueber-roestis-ausbauplaene-fuer-schiene-und-strasse",
-   "published": "2026-10-09T20:59:22Z",
-   "country": "switzerland",
-   "category": "business",
    "language": "german"
   },
   {
@@ -3075,16 +3875,6 @@
    "language": "german"
   },
   {
-   "id": "14bf3354724d3de4bd84c6fa570d48b6",
-   "title": "NEOS bei Mitgliederversammlung in Linz",
-   "source": "Kleine Zeitung",
-   "link": "https://www.kleinezeitung.at/artikel/41342987/neos-bei-mitgliederversammlung-in-linz",
-   "published": "2026-10-09T19:38:28Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
    "id": "d7d732cd82315b8be6a63c58614db730",
    "title": "König Charles kommt für Millionen-Kosten seines Bruders Andrew auf",
    "source": "Focus",
@@ -3103,16 +3893,6 @@
    "country": "germany",
    "category": "lifestyle",
    "language": "german"
-  },
-  {
-   "id": "68fc6265441b674d37deaf93763c4fd2",
-   "title": "Republicans once raced to embrace Trump. Their debate answers tell a different story now - AP News",
-   "source": "Google News",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFExckxIbGtGMVhSa3poei0tNUdJSkl4WmFfTWVabm1oVldKaWRxblItLTVNcHc0aEttb3RwT1VrV3kxa2x3bXlrOWNfZDlsVzBwWC1hSl9rOG9pYWp1R2xFUzhGREVpZ0lmLW5FU2FocEdUZXhKaGNmaWIxQTQ3dld5WUxRN2hSMFFvNm9PZ3hydm8yd3o2ODhXb21hZm03LXRLbkQycVRvT2wtSGxnR1FR?oc=5",
-   "published": "2026-10-09T17:29:00Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
   },
   {
    "id": "740826d89fdf3937ac936c610ae6432c",
@@ -3185,16 +3965,6 @@
    "language": "english"
   },
   {
-   "id": "5e7745449ec8c5d6b7d26c346d59900b",
-   "title": "Julien Dubois (maire, président de l'Association nationale des maires de communes thermales) et Florent Parmentier (enseignant, chercheur associé à HEC) – 09/10",
-   "source": "Bfm Tv",
-   "link": "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/julien-dubois-maire-president-de-l-association-nationale-des-maires-de-communes-thermales-et-florent-parmentier-enseignant-chercheur-associe-a-hec-09-10_EN-202610090783.html",
-   "published": "2026-10-09T17:28:40Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
-  },
-  {
    "id": "9078826b8cd42a3fd5c34a9be0b09f00",
    "title": "Operation Vivaldi der Ukraine stoppt russischen Zangenangriff im Donbass",
    "source": "Euronews De",
@@ -3233,776 +4003,6 @@
    "country": "united states of america",
    "category": "top",
    "language": "english"
-  },
-  {
-   "id": "efe910d7980c2b09257be61042bfa5c3",
-   "title": "A 7-year-old demotion fuels credibility fight in Clackamas sheriff’s race",
-   "source": "Oregon Local News",
-   "link": "https://www.oregonlive.com/clackamascounty/2026/10/a-7-year-old-demotion-fuels-credibility-fight-in-clackamas-sheriffs-race.html",
-   "published": "2026-10-09T17:28:12Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "d2e08eee64e6f17912f967270980bb74",
-   "title": "White House on Trump purchasing SpaceX debt before space order: 'No conflicts of interest'",
-   "source": "Kron4",
-   "link": "https://www.kron4.com/news/national/white-house-on-trump-purchasing-spacex-debt-before-space-order-no-conflicts-of-interest/",
-   "published": "2026-10-09T17:28:10Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "0c3f677fe85e64b2b86fc8b342b93682",
-   "title": "Stop saying recapture",
-   "source": "Housingwire",
-   "link": "https://www.housingwire.com/articles/recapture-rates-losing-borrowers/",
-   "published": "2026-10-09T17:28:00Z",
-   "country": "united states of america",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "7f5d9b76da2e68cdb8c651289672be16",
-   "title": "City of Chilton announces leaf collection dates",
-   "source": "I Want The News",
-   "link": "https://www.iwantthenews.com/news/city-of-chilton-announces-leaf-collection-dates/article_1500eb27-a18c-447b-9c30-3bf8dccca888.html",
-   "published": "2026-10-09T17:28:00Z",
-   "country": "united states of america",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "762f03168b486e17191ffb7cc78b53bb",
-   "title": "Yellowdish, The Fertile Cavendish Breeding Line",
-   "source": "Pr Newswire",
-   "link": "https://www.prnewswire.com/news-releases/yellowdish-the-fertile-cavendish-breeding-line-302903750.html",
-   "published": "2026-10-09T17:28:00Z",
-   "country": "united states of america",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "f5e97d427e3ef124d8d4787051c4fe86",
-   "title": "Use your right to vote",
-   "source": "Castanet",
-   "link": "https://www.castanet.net/news/Letters/633884/Use-your-right-to-vote",
-   "published": "2026-10-09T17:28:00Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "fe96b8b98bde34b94eddc742b24fd588",
-   "title": "Protect Your Money: How to save and invest to grow your wealth... and beat the taxman",
-   "source": "Mail Online",
-   "link": "https://www.dailymail.com/money/saving/article-16193991/Protect-Money-save-invest-grow-wealth-beat-taxman.html",
-   "published": "2026-10-09T17:28:00Z",
-   "country": "united kingdom",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "cc079d5d34ad65cd9076aa8c76b751ca",
-   "title": "Navi Pillay awarded Peace Prize: 'Lifetime spent fighting for what's right & to uphold human rights'",
-   "source": "France 24",
-   "link": "https://www.france24.com/en/navi-pillay-awarded-peace-prize-lifetime-spent-fighting-for-what-s-right-to-uphold-human-rights",
-   "published": "2026-10-09T17:27:56Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "1fe8b658b9ccefffc8bc8eb62465b279",
-   "title": "Montague appoints Skanska USA to manage Strathmore mill project",
-   "source": "Greenfield Recorder",
-   "link": "https://recorder.com/2026/10/09/montague-selectboard-appoints-skanska/",
-   "published": "2026-10-09T17:27:51Z",
-   "country": "united states of america",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "f3ace16289094d9e9b20b22a713f1007",
-   "title": "Grab Under Armour apparel and gear from $14 with up to 41% off",
-   "source": "9to5toys",
-   "link": "https://9to5toys.com/2026/10/09/under-armour-apparel-and-footwear-deals/",
-   "published": "2026-10-09T17:27:50Z",
-   "country": "united states of america",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "f6de9384db91f1631edcf9da1ae31129",
-   "title": "Flydubai-Copilot plante Anschlag auf Israel wie am 11. September 2001",
-   "source": "T-online",
-   "link": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101474858/flydubai-copilot-plante-anschlag-auf-israel-wie-am-11-september-2001.html",
-   "published": "2026-10-09T17:27:37Z",
-   "country": "germany",
-   "category": "politics",
-   "language": "german"
-  },
-  {
-   "id": "e07e0773d71f35bfd0a3388feb29509a",
-   "title": "Controversial Green MSP Q Manivannan gets to stay... for now",
-   "source": "Mail Online",
-   "link": "https://www.dailymail.com/news/article-16197189/Controversial-Green-MSP-Q-Manivannan-gets-stay-now.html",
-   "published": "2026-10-09T17:27:33Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "295c11e7c19efce3a2405b8da2acd434",
-   "title": "elumeo stellt auf HGB um – und schärft die Prognose für 2026",
-   "source": "Wallstreet Online",
-   "link": "https://www.wallstreet-online.de/nachricht/21502837-elumeo-stellt-hgb-schaerft-prognose-2026",
-   "published": "2026-10-09T17:27:30Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "b7715695f818f638c18365b457f3224b",
-   "title": "« On a apprécié d’être écoutés, maintenant on attend la suite : on ne sait pas si on a été entendus » : 90 minutes au cœur de la rencontre entre les lycéens et le recteur",
-   "source": "Larepubliquedespyrenees Fr",
-   "link": "https://www.larepubliquedespyrenees.fr/pyrenees-atlantiques/on-a-apprecie-d-etre-ecoutes-maintenant-on-attend-la-suite-on-ne-sait-pas-si-on-a-ete-entendus-90-minutes-au-coeur-de-la-rencontre-entre-les-lyceens-et-le-recteur-30999745.php",
-   "published": "2026-10-09T17:27:23Z",
-   "country": "france",
-   "category": "lifestyle",
-   "language": "french"
-  },
-  {
-   "id": "ed1f4b0a4a393fb78b6fc85b03641363",
-   "title": "États-Unis : la mise à mort de Nidal Hassan par peloton d’exécution pourrait être diffusée en direct",
-   "source": "Rt En Français",
-   "link": "https://rtenfrancais.tv/news/138864-etats-unis-retransmission-execution-nidal",
-   "published": "2026-10-09T17:27:22Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "f87254bf4e611a769d9727dd7f75ce84",
-   "title": "VIDÉO et PHOTOS. Haut-Loquin : vieille de 246 ans, la cloche « Louise » quitte son clocher pour une cure de jouvence",
-   "source": "Nord Littoral",
-   "link": "http://www.nordlittoral.fr/300629/article/2026-10-09/video-et-photos-haut-loquin-vieille-de-246-ans-la-cloche-louise-quitte-son",
-   "published": "2026-10-09T17:27:19Z",
-   "country": "france",
-   "category": "lifestyle",
-   "language": "french"
-  },
-  {
-   "id": "33cff8e5571138980e39232f9328cb98",
-   "title": "Mouvement lycéen : Soumaya, Seydou, Elwan… Qui sont les visages de la contestation dans les médias ?",
-   "source": "La-croix",
-   "link": "https://www.la-croix.com/societe/mouvement-lyceen-soumaya-seydou-elwan-qui-sont-les-visages-de-la-contestation-dans-les-medias-20261009",
-   "published": "2026-10-09T17:26:59Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "6f9576e1d5ea9753952d9539e230f779",
-   "title": "EU-China hybrid deal promises a halving, but not the how",
-   "source": "Automotive World",
-   "link": "https://www.automotiveworld.com/intelligence/eu-china-hybrid-deal-promises-a-halving-but-not-the-how/",
-   "published": "2026-10-09T17:26:35Z",
-   "country": "united kingdom",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "608d56db818b043717dd28ddb1a40051",
-   "title": "Crise budgétaire en France : la ministre des Armées brandit la menace d’un «engagement majeur» et pointe la Russie",
-   "source": "Rt En Français",
-   "link": "https://rtenfrancais.tv/france/138861-crise-budgetaire-france-ministre-armees",
-   "published": "2026-10-09T17:26:28Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "64e5c936679754e3759c8c80b0e1ad9f",
-   "title": "Sam Altman says OpenAI will put its mission before its share price",
-   "source": "Tnw",
-   "link": "https://thenextweb.com/news/sam-altman-openai-mission-before-share-price-equity",
-   "published": "2026-10-09T17:26:21Z",
-   "country": "united kingdom",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "d2bf62f37ea019f435ac7c12eaa93967",
-   "title": "Streit ums Erbe: Verfassungsgericht prüft Zuständigkeit",
-   "source": "Rheinpfalz",
-   "link": "https://www.rheinpfalz.de/politik_artikel,-streit-ums-erbe-verfassungsgericht-pr%C3%BCft-zust%C3%A4ndigkeit-_arid,5937413.html",
-   "published": "2026-10-09T17:26:00Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "d5ca166a6060fc07f96a2df64c58eabb",
-   "title": "Fake News im AfD-Umfeld: Zweifel an der Geschichte von Hape Kerkelings Großvater sind schnell zerstreut",
-   "source": "Frankfurther Allgemeine Zeitung",
-   "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/hetze-gegen-hape-kerkelings-grossvater-widerlegt-201303122.html",
-   "published": "2026-10-09T17:25:53Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "e530a2b16b110132ae9ff13b7c5242de",
-   "title": "Hetze gegen Hape Kerkelings Großvater widerlegt",
-   "source": "Bundle",
-   "link": "https://www.bundle.app/de/nachrichten/hetze-gegen-hape-kerkelings-grovater-widerlegt-F843CC5D-A15E-526E-9238-56FDAB0C0CE9",
-   "published": "2026-10-09T17:25:53Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "f25585fddb186913a00a3833e484d36d",
-   "title": "UK and allies stand up to Donald Trump and US over International Criminal Court sanctions",
-   "source": "Mirror",
-   "link": "https://www.mirror.co.uk/news/politics/uk-trump-us-icc-sanctions-37756145",
-   "published": "2026-10-09T17:25:51Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "4a8fec897a12a13ce0b7bd97608d2f7c",
-   "title": "Netflix planning to fire 5% of its 17,000 staff as it struggles in wake of failed Warner Bros takeover, says Hollywood's top insider",
-   "source": "Mail Online",
-   "link": "https://www.dailymail.com/media/article-16196221/netlifx-layoffs-cuts-puck-warner-paramount-merger.html",
-   "published": "2026-10-09T17:25:47Z",
-   "country": "united kingdom",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "cdff9a3cb46d2d6c236ddfd302160be6",
-   "title": "Litauen bereitet sich auf Tag X vor",
-   "source": "Gmx",
-   "link": "https://www.gmx.net/magazine/politik/russland-krieg-ukraine/litauen-bereitet-tag-x-42809284",
-   "published": "2026-10-09T17:25:36Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "2858387a9f0faafc646a4055c3c76a61",
-   "title": "Litauen bereitet sich auf Tag X vor",
-   "source": "Web.de",
-   "link": "https://web.de/magazine/politik/russland-krieg-ukraine/litauen-bereitet-tag-x-42809284",
-   "published": "2026-10-09T17:25:36Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "b1199b122fa1a54e2b408e071ac09859",
-   "title": "Protesters risk arrest for terrorism in Stroud town centre tomorrow - here's why",
-   "source": "Stroud News And Journal",
-   "link": "https://www.stroudnewsandjournal.co.uk/news/26624643.palestine-action-protest-stroud-campaigners-risk-arrest/",
-   "published": "2026-10-09T17:25:15Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "23f393d8fb1ef891213752fdc078e281",
-   "title": "Many Major Countries Aren’t Ready For a Bank Failure",
-   "source": "Finimize",
-   "link": "https://finimize.com/content/many-major-countries-arent-ready-for-a-bank-failure",
-   "published": "2026-10-09T17:25:11Z",
-   "country": "united kingdom",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "b73c8b9e97bdbb142aa9688d0f948f55",
-   "title": "AfD bei 40 Prozent in Brandenburg, CDU stürzt auf neun Prozent ab",
-   "source": "Rt De",
-   "link": "https://de-rt.com/inland/294283-afd-bei-40-prozent-in-brandenburg/",
-   "published": "2026-10-09T17:25:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "82515b9f4048109e042185ba4ee41fc7",
-   "title": "OpenAI’s Math Isn’t The Same As Anthropic’s",
-   "source": "Finimize",
-   "link": "https://finimize.com/content/openais-math-isnt-the-same-as-anthropics",
-   "published": "2026-10-09T17:24:47Z",
-   "country": "united kingdom",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "4b01e928384f9999932ecbb10f6863e0",
-   "title": "US-Sanktionen gegen Weltstrafgericht: Was bedeutet das?",
-   "source": "Wnoz",
-   "link": "https://www.wnoz.de/nachrichten/deutschland-und-die-welt/politik/international/friedensnobelpreis-geht-an-suedafrikanerin-navanethem-pillay-1130943.html",
-   "published": "2026-10-09T17:24:13Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "085006e7898d670013a76dfdcb9a61a6",
-   "title": "Vir Biotechnology-Aktie erreicht 52-Wochen-Hoch bei 11,96 USD",
-   "source": "Investing - Ihr",
-   "link": "https://de.investing.com/news/company-news/vir-biotechnologyaktie-erreicht-52wochenhoch-bei-1196-usd-93CH-3698269",
-   "published": "2026-10-09T17:24:06Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "fdad583f74adcf3c534f4b13ef35a58f",
-   "title": "DIRECT. \"Lycéens en colère : anatomie d'une lutte\" : regardez le documentaire de franceinfo qui revient sur trois semaines de mobilisation de la jeunesse",
-   "source": "Franceinfo",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-lyceens-en-colere-anatomie-d-une-lutte-regardez-le-documentaire-de-franceinfo-qui-revient-sur-trois-semaines-de-mobilisation-de-la-jeunesse_8230564.html",
-   "published": "2026-10-09T17:23:06Z",
-   "country": "france",
-   "category": "politics",
-   "language": "french"
-  },
-  {
-   "id": "24d1e75a83de1e41ed3c52829e28dc86",
-   "title": "Bahn modernisiert ICE-Strecke Frankfurt-Heidelberg deutlich später",
-   "source": "Nachrichten Aus Hessen",
-   "link": "https://www.hessenschau.de/wirtschaft/bahn-modernisiert-ice-strecke-frankfurt-heidelberg-deutlich-spaeter-v2,bahn-streckensanierungen-104.html",
-   "published": "2026-10-09T17:23:01Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "a93c8f05c0d62422c097de72c505ab3f",
-   "title": "Andy Burnham warned early release scheme will make police quit - ‘morale is plunging’",
-   "source": "Express",
-   "link": "https://www.express.co.uk/news/politics/2255970/andy-burnham-early-release-police-quit-morale",
-   "published": "2026-10-09T17:23:00Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "c3abac84eea66cabda456fb9ec36df4c",
-   "title": "Mâcon. Crise lycéenne : un « Temps démocratique » au lycée René-Cassin : « Il faudrait beaucoup plus de moments comme celui-là »",
-   "source": "Le Journal",
-   "link": "https://www.lejsl.com/education/2026/10/09/crise-des-lyceens-un-temps-democratique-au-lycee-rene-cassin-il-faudrait-beaucoup-plus-de-moments-comme-celui-la",
-   "published": "2026-10-09T17:23:00Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "26ded6c31c08bc6712aafcd6edbfb560",
-   "title": "« Tous les jeunes de ce pays ont en tête de partir » : à Cuba, une génération privée d'avenir",
-   "source": "Paris Match",
-   "link": "https://www.parismatch.com/actu/international/tous-les-jeunes-de-ce-pays-ont-en-tete-de-partir-a-cuba-une-generation-privee-davenir-277191",
-   "published": "2026-10-09T17:22:53Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "3e8bab093db12928e6bfeb4f38d8245c",
-   "title": "Mobilisation lycéenne : Affectations, rappels de contractuels, stocks… Ce que l’on sait du plan de remplacements des profs d’Édouard Geffray",
-   "source": "Sudouest",
-   "link": "https://www.sudouest.fr/politique/education/mobilisation-lyceenne-affectations-rappels-de-contractuels-stocks-ce-que-l-on-sait-du-plan-de-remplacements-des-profs-d-edouard-geffray-30999188.php",
-   "published": "2026-10-09T17:22:51Z",
-   "country": "france",
-   "category": "politics",
-   "language": "french"
-  },
-  {
-   "id": "789fa442dc8c65af5f34c7ecc4fd3dd6",
-   "title": "Rheinmetall ist offenbar am LuWES-Projekt interessiert",
-   "source": "Loma News",
-   "link": "https://lomazoma.com/rheinmetall-ist-offenbar-am-luwes-projekt-interessiert/",
-   "published": "2026-10-09T17:22:48Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "c7bbe81c7180dd755df4630822b023f8",
-   "title": "Wise vs PayPal in 2026: Which Is Better for Receiving Money in India?",
-   "source": "Techbullion",
-   "link": "https://techbullion.com/wise-vs-paypal-in-2026-which-is-better-for-receiving-money-in-india/",
-   "published": "2026-10-09T17:22:37Z",
-   "country": "united kingdom",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "1244682a3477fc88f31f2ab495121503",
-   "title": "Ryanair cabin bag slashed by £11 to £15.99 in 41% off deal",
-   "source": "The News",
-   "link": "https://www.portsmouth.co.uk/recommended/ryanair-cabin-bag-ryanair-40x30x20-underseat-backpack-ryanair-hand-luggage-travel-backpack-9276838",
-   "published": "2026-10-09T17:22:17Z",
-   "country": "united kingdom",
-   "category": "politics",
-   "language": "english"
-  },
-  {
-   "id": "fd6e541e9cf4038fd127953ebfbb11a7",
-   "title": "RBC stuft BBVA auf 'Neutral'",
-   "source": "Wallstreet Online",
-   "link": "https://www.wallstreet-online.de/nachricht/21503035-rbc-stuft-bbva-neutral",
-   "published": "2026-10-09T17:21:42Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "cdadb37d92304b83f88f7b02cfc7f098",
-   "title": "Mental health charity sprays city streets in graffiti - 'it could be life-saving'",
-   "source": "Mirror",
-   "link": "https://www.mirror.co.uk/news/uk-news/mental-health-charity-sprays-city-37755765",
-   "published": "2026-10-09T17:21:16Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "26bb9bd8ed555f7f1ff30964951d5d03",
-   "title": "Nouveau commerce : à Pontivy, le restaurant Mash street kitchen a ouvert ses portes",
-   "source": "Actu.fr",
-   "link": "https://actu.fr/bretagne/pontivy_56178/nouveau-commerce-a-pontivy-le-restaurant-mash-street-kitchen-a-ouvert-ses-portes_64903139.html",
-   "published": "2026-10-09T17:20:02Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
-  },
-  {
-   "id": "d174d18ee3c5c65c3c1bef8515fe302a",
-   "title": "Saint-Nabord. Un don de 500 € pour la lutte contre les cancers pédiatriques",
-   "source": "Vosges Matin",
-   "link": "https://www.vosgesmatin.fr/societe/2026/10/09/un-don-de-500-pour-la-lutte-contre-les-cancers-pediatriques",
-   "published": "2026-10-09T17:19:22Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
-  },
-  {
-   "id": "e6098a46b6c31ef8a6942720faa81547",
-   "title": "King Charles chooses new neighbours for Andrew amid investigation",
-   "source": "Bournemouth Echo",
-   "link": "https://www.bournemouthecho.co.uk/news/26624636.king-charles-picks-new-neighbours-andrew-amid-investigation/",
-   "published": "2026-10-09T17:19:20Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "a5eafcea540752cdad1cc285a626fcfc",
-   "title": "Discovery schließt einen Kaufvertrag über den Erwerb bestimmter Mineralliegenschaften in Timmins von McEwen Inc. ab",
-   "source": "Wallstreet Online",
-   "link": "https://www.wallstreet-online.de/nachricht/21502807-discovery-schliesst-kaufvertrag-erwerb-bestimmter-mineralliegenschaften-timmins-mcewen-inc",
-   "published": "2026-10-09T17:19:00Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "7b4c542d4e0542c2a8c6a885bf870342",
-   "title": "Glasgow cops launch search for six people after anti-immigration disorder",
-   "source": "Glasgowlive Co Uk",
-   "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cops-launch-search-six-34744349",
-   "published": "2026-10-09T17:18:35Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "b7954eef9bf06ff8b98966985e663d3c",
-   "title": "Inflation in Brasilien steigt im September über Ziel der Zentralbank",
-   "source": "Investing - Ihr",
-   "link": "https://de.investing.com/news/economy-news/inflation-in-brasilien-steigt-im-september-uber-ziel-der-zentralbank-93CH-3698265",
-   "published": "2026-10-09T17:18:25Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "db674fe6a00adf4a198e603b0ab1afce",
-   "title": "Chabeuil. Le chantier de l’école de Parlanges va démarrer à la Toussaint",
-   "source": "Le Dauphine",
-   "link": "https://www.ledauphine.com/economie/2026/10/09/le-chantier-de-l-ecole-de-parlanges-va-demarrer-a-la-toussaint",
-   "published": "2026-10-09T17:17:57Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
-  },
-  {
-   "id": "2e63df85599dfdaf56c28352623cff42",
-   "title": "Moins gourmande en eau que le maïs, la betterave intéresse les agriculteurs des Deux-Sèvres",
-   "source": "Lanouvellerepublique Fr",
-   "link": "https://www.lanouvellerepublique.fr/deux-sevres/commune/prailles-la-couarde/moins-gourmande-en-eau-que-le-mais-la-betterave-interesse-les-agriculteurs-des-deux-sevres-1791566231",
-   "published": "2026-10-09T17:17:11Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
-  },
-  {
-   "id": "8abb724f3d6576613e5a770802e4a260",
-   "title": "Ganztagesbetreuung: Land will Nutzung anschauen",
-   "source": "Orf",
-   "link": "https://vorarlberg.orf.at/stories/3374645/",
-   "published": "2026-10-09T17:17:02Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "f34377517a55d9c722b07b1f6fa416df",
-   "title": "Russen im Ausland: Reiseschikanen und Internetblockaden: Putin zerreisst russische Familien",
-   "source": "Bz Berner Zeitung",
-   "link": "https://www.bernerzeitung.ch/putin-zerreisst-russische-familien-868266844152",
-   "published": "2026-10-09T17:16:56Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "9231019c721a00435c40e86e54872ffb",
-   "title": "Putin zerreisst russische Familien",
-   "source": "Tages-anzeiger",
-   "link": "https://www.tagesanzeiger.ch/putin-zerreisst-russische-familien-868266844152",
-   "published": "2026-10-09T17:16:56Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "3a59ee761576301efb7d41c34b4f34fb",
-   "title": "Russen im Ausland: Reiseschikanen und Internetblockaden: Putin zerreisst russische Familien",
-   "source": "Derbund",
-   "link": "https://www.derbund.ch/putin-zerreisst-russische-familien-868266844152",
-   "published": "2026-10-09T17:16:56Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "af0c765298a03339543fe5642f9f405f",
-   "title": "Carbon tax retreat shows ideology crumbles when bills bite",
-   "source": "The Times",
-   "link": "https://www.thetimes.com/world/ireland-world/article/gary-murphy-carbon-tax-budget-2027-d9bmqw7p2",
-   "published": "2026-10-09T17:15:01Z",
-   "country": "united kingdom",
-   "category": "politics",
-   "language": "english"
-  },
-  {
-   "id": "97f0273909c64760d993e731ff51c6f9",
-   "title": "In defence of Captain Cook",
-   "source": "The Telegraph",
-   "link": "https://www.telegraph.co.uk/news/2026/10/09/in-defence-of-captain-cook/",
-   "published": "2026-10-09T17:14:23Z",
-   "country": "united kingdom",
-   "category": "politics",
-   "language": "english"
-  },
-  {
-   "id": "db99f2aa68c78bcfed4100bca6c73d22",
-   "title": "Abrechnung von Ex-Spiegel-Chef Stefan Aust, Oliver Zimmer präsentiert gloriose Gedanken, Islamwissenschaftler Ralph Ghadban warnt vor dem Islam, Antonio Gnaegi und Alex Baur – zwei Schweizer in Peru, Egon Flaig zerlegt die Machtanalytik von Michel Foucault",
-   "source": "Die Weltwoche",
-   "link": "https://weltwoche.ch/daily/abrechnung-von-ex-spiegel-chef-stefan-aust-oliver-zimmer-praesentiert-gloriose-gedanken-islamwissenschaftler-ralph-ghadban-warnt-vor-dem-islam-antonio-gnaegi-und-alex-baur-zwei-schweizer/",
-   "published": "2026-10-09T17:12:22Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "54062f52db513130cfa366b632888279",
-   "title": "Merz vs. Rubio: Während der deutsche Kanzler in Kiew mit den Säbeln rasselt, plädiert Marco Rubio in Athen für Frieden und nationale Stärke",
-   "source": "Die Weltwoche",
-   "link": "https://weltwoche.ch/daily/merz-vs-rubio/",
-   "published": "2026-10-09T17:12:13Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "a6356760d2ded6d795eb5bbdc481fffa",
-   "title": "Personenkontrolle: Kretschmer, Leo XIV., Gallagher, Burnham, Meghan, Harry, Kerkeling, William, Catherine, Trump, Cotton, Backpack, Dancing Queen",
-   "source": "Die Weltwoche",
-   "link": "https://weltwoche.ch/daily/kretschmer-leo-xiv-gallagher-burnham-meghan-harry-kerkeling-william-catherine-trump-cotton-backpack-dancing-queen/",
-   "published": "2026-10-09T17:12:06Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "9204cd819448a2f997bc260423f9e0a8",
-   "title": "Bühnen Graz vor drastischen Einsparungen",
-   "source": "Orf",
-   "link": "https://steiermark.orf.at/stories/3374632/",
-   "published": "2026-10-09T17:07:00Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "1538e14daaba01a0ecfea8c20a78f366",
-   "title": "Blick-Leserin Valerie C. bekommt Parkbusse – obwohl sie bezahlt hat",
-   "source": "Blick",
-   "link": "https://www.blick.ch/schweiz/zuerich/opfikon-zh-leserin-valerie-c-bekommt-parkbusse-obwohl-sie-bezahlt-hat/fzmrkes",
-   "published": "2026-10-09T17:06:34Z",
-   "country": "switzerland",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "4dd116a7f873ffd28df88295cd057a94",
-   "title": "Nahversorgung: Gemeinden suchen neue Wege",
-   "source": "Orf",
-   "link": "https://noe.orf.at/stories/3374591/",
-   "published": "2026-10-09T17:05:13Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "a784d40563aa35d9aa783504a6a5a3fb",
-   "title": "Streit um das Völkerrecht: Trump will den Internationalen Strafgerichtshof lahmlegen – Europa unter Druck",
-   "source": "Tages-anzeiger",
-   "link": "https://www.tagesanzeiger.ch/rubio-droht-istgh-mitarbeitenden-mit-sanktionen-725216274070",
-   "published": "2026-10-09T17:05:10Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "5689b26902bf5af38e1eda80502a7c5d",
-   "title": "Little Cesar Marco",
-   "source": "Der Standard",
-   "link": "https://www.derstandard.at/story/3000000343448/little-cesar-marco",
-   "published": "2026-10-09T17:00:00Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "a508a93f7f97ad3c7332b848940244c3",
-   "title": "Kalifornische Behörden wollen Kämpfe Mensch gegen Roboter verbieten",
-   "source": "Der Standard",
-   "link": "https://www.derstandard.at/story/3000000343476/kalifornische-behoerden-wollen-kaempfe-mensch-gegen-roboter-verbieten",
-   "published": "2026-10-09T17:00:00Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "32e236e7ad5781b61dc8b7cddd22b773",
-   "title": "Keine Mehrheit: Wie FPÖ und ÖVP gegen sich selbst stimmten",
-   "source": "Falter",
-   "link": "https://www.falter.at/maily/20261009/wie-fpoe-und-oevp-gegen-sich-selbst-stimmten",
-   "published": "2026-10-09T17:00:00Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "090514bca579564f60d65f8c4c6fe77a",
-   "title": "Warum die EZB ein Eingreifen bei Frankreichs Anleiheturbulenzen meidet",
-   "source": "Cash",
-   "link": "https://www.cash.ch/news/top-news/warum-die-ezb-ein-eingreifen-bei-frankreichs-anleiheturbulenzen-meidet-975454",
-   "published": "2026-10-09T17:00:00Z",
-   "country": "switzerland",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "dcc1993e91f3a6ef7af68f3325386e0f",
-   "title": "Etappensieg für die EU: China verspricht, seine Exporte von Hybridfahrzeugen nach Europa zu halbieren",
-   "source": "Nzz",
-   "link": "https://www.nzz.ch/wirtschaft/etappensieg-fuer-die-eu-china-verspricht-seine-exporte-von-hybridfahrzeugen-nach-europa-zu-halbieren-ld.10029379",
-   "published": "2026-10-09T16:49:38Z",
-   "country": "switzerland",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "b343d93bd6d130257d9a48f5b02a47b8",
-   "title": "EVP nominiert Gudrun Kugler als Kandidatin für den Vorsitz der Parlamentarischen Versammlung der OSZE",
-   "source": "Ots",
-   "link": "https://www.ots.at/presseaussendung/OTS_20261009_OTS0135/evp-nominiert-gudrun-kugler-als-kandidatin-fuer-den-vorsitz-der-parlamentarischen-versammlung-der-osze",
-   "published": "2026-10-09T16:45:32Z",
-   "country": "austria",
-   "category": "politics",
-   "language": "german"
-  },
-  {
-   "id": "d39b3a0720db504c736bb061516837a2",
-   "title": "Besonders beachtet!: AT&T Aktie im freien Fall. Was steckt dahinter? 09.10.2026",
-   "source": "Wallstreet Online",
-   "link": "https://www.wallstreet-online.de/nachricht/21500407-beachtet-at-t-aktie-freien-fall-steckt-dahinter-09-10-2026",
-   "published": "2026-10-09T08:30:00Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "d62052d444c2df923f4872f2eb781701",
-   "title": "Allianz: Europas Autoindustrie spart an falscher Stelle",
-   "source": "N&uuml;rnberger",
-   "link": "https://www.nn.de/wirtschaft/allianz-europas-autoindustrie-spart-an-falscher-stelle-1.15309186",
-   "published": "2026-10-09T08:30:00Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "dd8a67c1673d1f1cbcb7a2b0a37471ff",
-   "title": "Ideen sammeln und planen: Solaranlagen und mehr auf der VestBau in Recklinghausen",
-   "source": "Recklinghäuser Zeitung",
-   "link": "https://www.recklinghaeuser-zeitung.de/recklinghausen/ideen-sammeln-und-planen-solaranlagen-und-mehr-auf-der-vestbau-in-recklinghausen-w1255950-6001419790/",
-   "published": "2026-10-09T08:30:00Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "46920af187cd33e07ba13cbe7c2d9901",
-   "title": "Gewährleistungslabel im Online-Shop: Diese Darstellung kann zur Abmahnung führen",
-   "source": "Haendlerbund",
-   "link": "https://ohn.haendlerbund.de/recht/abmahnungen/gewaehrleistungslabel-online-shop-darstellung-abmahnung",
-   "published": "2026-10-09T08:30:00Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "d31e611ff5957168580c8dd0758e724f",
-   "title": "Ideen sammeln und planen: Solaranlagen und mehr auf der VestBau in Recklinghausen",
-   "source": "Stimberg Zeitung",
-   "link": "https://www.stimberg-zeitung.de/recklinghausen/ideen-sammeln-und-planen-solaranlagen-und-mehr-auf-der-vestbau-in-recklinghausen-w1255950-10001405029/",
-   "published": "2026-10-09T08:30:00Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "2ee79a0298d922d68d45e684813f0b15",
-   "title": "Jobs der Woche | KW 41: Vom Staatshaushalt bis zum Sendestudio",
-   "source": "Legal Tribune Online",
-   "link": "https://www.lto.de/recht/job-karriere/j/jobs-der-woche-kw-41-volljurist-rechtsanwalt-rechtsanwaltfachangestellte?r=rss",
-   "published": "2026-10-09T08:30:00Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
   }
  ]
 }
