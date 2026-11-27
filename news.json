@@ -1,17 +1,1087 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-27T02:51:15Z",
+ "generatedAt": "2026-11-27T15:06:42Z",
  "attribution": "Meldungen: NewsData.io. Rechte an Inhalten liegen bei den jeweiligen Medien; Links fuehren zum Original.",
  "count": 400,
  "items": [
   {
-   "id": "cbb8e6604dcc5240fb3c73d01a457923",
-   "title": "ÖVP-Minister bei Spritpreisbremse für Aus von Margeneingriff",
+   "id": "c4c4bdec0cab5ea495e0d0fc126bbfd5",
+   "title": "Fakten zum Weihnachtsstern – Hätten Sie’s gewusst?",
+   "source": "Stimberg Zeitung",
+   "link": "https://www.stimberg-zeitung.de/dpa-infoline-zvr/fakten-zum-weihnachtsstern-haetten-sies-gewusst-w1279366-10001445874/",
+   "published": "2026-11-27T03:06:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "ead9bcb311e29df1ce1d98ad5c752121",
+   "title": "Der Black Friday zwischen Hype und Skepsis",
+   "source": "Stimberg Zeitung",
+   "link": "https://www.stimberg-zeitung.de/dpa-infoline-zvr/der-black-friday-zwischen-hype-und-skepsis-w1279364-10001445877/",
+   "published": "2026-11-27T03:06:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "dd0a3f7abf3b4be5413574bdc9ae77ed",
+   "title": "Fakten zum Weihnachtsstern – Hätten Sie’s gewusst?",
+   "source": "Ruhrnachrichten De",
+   "link": "https://www.ruhrnachrichten.de/dpa-infoline-zvr/fakten-zum-weihnachtsstern-haetten-sies-gewusst-w1279366-2002313854/",
+   "published": "2026-11-27T03:06:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "d2425f04a55a1c5c60adc2491c6b3d0b",
+   "title": "Der Black Friday zwischen Hype und Skepsis",
+   "source": "Ruhrnachrichten De",
+   "link": "https://www.ruhrnachrichten.de/dpa-infoline-zvr/der-black-friday-zwischen-hype-und-skepsis-w1279364-2002313859/",
+   "published": "2026-11-27T03:06:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "0131177aeeaa933a6dc155047d9ff554",
+   "title": "Der Black Friday zwischen Hype und Skepsis",
+   "source": "Bbv-net De",
+   "link": "https://www.bbv-net.de/dpa-infoline-zvr/der-black-friday-zwischen-hype-und-skepsis-w1279364-6000669886/",
+   "published": "2026-11-27T03:06:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "eb8a3b406f46916c297c74045a65dfaf",
+   "title": "Fakten zum Weihnachtsstern – Hätten Sie’s gewusst?",
+   "source": "Bbv-net De",
+   "link": "https://www.bbv-net.de/dpa-infoline-zvr/fakten-zum-weihnachtsstern-haetten-sies-gewusst-w1279366-6000669896/",
+   "published": "2026-11-27T03:06:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "3b9ab66b2f4cce3d7e236c954c43271a",
+   "title": "Der Black Friday zwischen Hype und Skepsis",
+   "source": "Waltroper Zeitung",
+   "link": "https://www.waltroper-zeitung.de/dpa-infoline-zvr/der-black-friday-zwischen-hype-und-skepsis-w1279364-11001535285/",
+   "published": "2026-11-27T03:06:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "8c69c67a9de34a6437f8bf404f1f1fb0",
+   "title": "Der Black Friday zwischen Hype und Skepsis",
+   "source": "Hellweger Anzeiger",
+   "link": "https://www.hellwegeranzeiger.de/dpa-infoline-zvr/der-black-friday-zwischen-hype-und-skepsis-w1279364-1001829684/",
+   "published": "2026-11-27T03:06:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "0b3ab6761c0777db49efc35f1b36d17b",
+   "title": "Fakten zum Weihnachtsstern – Hätten Sie’s gewusst?",
+   "source": "Recklinghäuser Zeitung",
+   "link": "https://www.recklinghaeuser-zeitung.de/dpa-infoline-zvr/fakten-zum-weihnachtsstern-haetten-sies-gewusst-w1279366-6001462180/",
+   "published": "2026-11-27T03:06:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "020fb4c175a601a12da1529fc5830c82",
+   "title": "Der Black Friday zwischen Hype und Skepsis",
+   "source": "Recklinghäuser Zeitung",
+   "link": "https://www.recklinghaeuser-zeitung.de/dpa-infoline-zvr/der-black-friday-zwischen-hype-und-skepsis-w1279364-6001462183/",
+   "published": "2026-11-27T03:06:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "c89f822ca613d701a0fa279eae1c452a",
+   "title": "Finanznot: Migrationsberatungen streichen Stellen",
+   "source": "Gmx",
+   "link": "https://www.gmx.net/magazine/regio/thueringen/finanznot-migrationsberatungen-streichen-stellen-42988886",
+   "published": "2026-11-27T03:05:47Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "adb2c3f35e71b728f39b1bdac5588f2a",
+   "title": "Finanznot: Migrationsberatungen streichen Stellen",
+   "source": "Web.de",
+   "link": "https://web.de/magazine/regio/thueringen/finanznot-migrationsberatungen-streichen-stellen-42988886",
+   "published": "2026-11-27T03:05:47Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "ce8e15de4248a6ec9acfc2f0d2e60cbf",
+   "title": "Jusos kommen in Bochum zu Bundeskongress zusammen",
+   "source": "Stern",
+   "link": "https://www.stern.de/news/jusos-kommen-in-bochum-zu-bundeskongress-zusammen-38614738.html",
+   "published": "2026-11-27T03:05:38Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "9955d5bd0173484f4bbe4eaa3c9897ac",
+   "title": "Coinbase Wallet Returns $250K in Trading Fee Rebates to Users",
+   "source": "Bitcoin News",
+   "link": "https://news.bitcoin.com/crypto-news/coinbase-wallet-returns-250k-in-trading-fee-rebates-to-users/",
+   "published": "2026-11-27T03:05:37Z",
+   "country": "singapore",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "2a1125f1610b831954e776a9f036410d",
+   "title": "Das ist der Stand beim Landeshaushalt für 2027",
+   "source": "Gmx",
+   "link": "https://www.gmx.net/magazine/regio/baden-wuerttemberg/stand-landeshaushalt-2027-42988878",
+   "published": "2026-11-27T03:05:34Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "37ef63b2226bf2fff63442879890519c",
+   "title": "Das ist der Stand beim Landeshaushalt für 2027",
+   "source": "Web.de",
+   "link": "https://web.de/magazine/regio/baden-wuerttemberg/stand-landeshaushalt-2027-42988878",
+   "published": "2026-11-27T03:05:34Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "13f6a3e78f510c3eeab6ac5e73bf0743",
+   "title": "Ukraine war briefing: Kyiv launched more long-range strikes in 2026 than rest of war combined, data shows",
+   "source": "Yahoo! News",
+   "link": "https://uk.news.yahoo.com/ukraine-war-briefing-kyiv-launched-030532176.html",
+   "published": "2026-11-27T03:05:32Z",
+   "country": "united kingdom",
+   "category": "crime",
+   "language": "english"
+  },
+  {
+   "id": "8d4530c4a0549398008df69e55b4d4c8",
+   "title": "Milei’s overhaul of Argentina’s central bank wins final congressional approval, Bloomberg reports",
+   "source": "Digg",
+   "link": "https://digg.com/world-business/ky2ci3pm",
+   "published": "2026-11-27T03:05:31Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "459c20810252cfc1c761fc39831496ef",
+   "title": "Pоids lоurds élесtriques : 10 aсteurs du secteur s’unissеnt pоur dynаmiser le mаrсhé",
+   "source": "Trm24",
+   "link": "https://www.trm24.fr/p%D0%BEids-l%D0%BEurds-el%D0%B5%D1%81triques-10-a%D1%81teurs-du-secteur-suniss%D0%B5nt-p%D0%BEur-dyn%D0%B0miser-le-m%D0%B0r%D1%81he/",
+   "published": "2026-11-27T03:05:27Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "6bd143594de77dfa209774c09acc0cd9",
+   "title": "This Thanksgiving, let’s celebrate the miracle of capitalism",
+   "source": "New York Post",
+   "link": "https://nypost.com/2026/11/26/opinion/this-thanksgiving-lets-celebrate-the-miracle-of-capitalism/",
+   "published": "2026-11-27T03:05:16Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "57dc7d1686699e871476d9b1258f76a2",
+   "title": "Zahl der Arbeitslosen mit Behinderung erreicht Höchststand",
+   "source": "Passauer Neue Presse",
+   "link": "https://www.pnp.de/nachrichten/bayern/zahl-der-arbeitslosen-mit-behinderung-erreicht-hoechststand-22512239",
+   "published": "2026-11-27T03:05:13Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "c6abd9cb3661109af5ea0408c3a396b3",
+   "title": "X adds its first parental controls for teens, Neowin reports",
+   "source": "Digg",
+   "link": "https://digg.com/tech/40fnqv9x",
+   "published": "2026-11-27T03:05:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "02798d72af1313777c408404ae7dab7e",
+   "title": "Crock-Pot 7-Qt. Countdown Cook & Carry Slow Cooker for $36 + free shipping",
+   "source": "Dealnews",
+   "link": "https://www.dealnews.com/products/Crock-Pot/Crock-Pot-7-Qt-Countdown-Cook-Carry-Slow-Cooker/564661.html?iref=rss",
+   "published": "2026-11-27T03:04:57Z",
+   "country": "united states of america",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "67d5dd0f7cec7a66602d5652edad1014",
+   "title": "Shoppers look for best deals to spend money on Black Friday",
+   "source": "Whio News Center Seven",
+   "link": "https://www.whio.com/news/local/shoppers-look-best-deals-spend-money-black-friday/AEKWKRGHWJGFZMEZXSU7ZGO67E/",
+   "published": "2026-11-27T03:04:56Z",
+   "country": "united states of america",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "1f34befb0fa34b9316efa4e4765a3790",
+   "title": "Indiana guardsmen return home from deployment in time for Thanksgiving",
+   "source": "Wthr",
+   "link": "https://www.wthr.com/article/news/national/military-news/indiana-national-guard-soldiers-return-home-from-deployment-in-time-for-thanksgiving/531-6d9ef5a8-459c-4569-a9d4-e729c9e032c4",
+   "published": "2026-11-27T03:04:44Z",
+   "country": "united states of america",
+   "category": "crime",
+   "language": "english"
+  },
+  {
+   "id": "83dac1348b88666ff9c1a1d121e079f0",
+   "title": "UNI Surges 5.01% as Fidelity Adds Support, Multi-Chain Growth | Top Stories | CoinMarketCap",
+   "source": "Coin Market Cap",
+   "link": "https://coinmarketcap.com/top-stories/6b08f33e8a1daa09b20f1c3e/",
+   "published": "2026-11-27T03:04:30Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "d00fb712e811f798b4d0d0a9e48b358d",
+   "title": "Hyperliquid (HYPE) Surges 4.82% on ETF Inclusion, Buybacks | Top Stories | CoinMarketCap",
+   "source": "Coin Market Cap",
+   "link": "https://coinmarketcap.com/top-stories/6b08f33e8a1daa09b20f1c3d/",
+   "published": "2026-11-27T03:04:30Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "69c5f363f857201bff3bf68e33079663",
+   "title": "Corée du Nord : Pyongyang expulse le représentant suisse",
+   "source": "Lepetitjournal",
+   "link": "https://lepetitjournal.com/coree-nord-vs-suisse",
+   "published": "2026-11-27T03:04:25Z",
+   "country": "france",
+   "category": "crime",
+   "language": "french"
+  },
+  {
+   "id": "78a02c4176d9467235abdd987f2771ce",
+   "title": "Das ist der Stand beim Landeshaushalt für 2027",
+   "source": "Badische Neueste Nachrichten",
+   "link": "https://bnn.de/nachrichten/baden-wuerttemberg/das-ist-der-stand-beim-landeshaushalt-fuer-2027",
+   "published": "2026-11-27T03:04:19Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "ccc9a602c6e99713e4d5d00f0b4adcd6",
+   "title": "BioGNV : 90 % des Français favorables à un soutien public",
+   "source": "Trm24",
+   "link": "https://www.trm24.fr/biognv-90-des-francais-favorables-a-un-soutien-public/",
+   "published": "2026-11-27T03:04:18Z",
+   "country": "france",
+   "category": "politics",
+   "language": "french"
+  },
+  {
+   "id": "56effea8dfb43db4b01e6fb947a9ae82",
+   "title": "Das ist der Stand beim Landeshaushalt für 2027",
+   "source": "Reutlinger General-anzeiger",
+   "link": "https://www.gea.de/land_artikel,-das-ist-der-stand-beim-landeshaushalt-f%C3%BCr-2027-_arid,7176977.html",
+   "published": "2026-11-27T03:04:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "b4d66555cd1b44eabbf1e1fa13c87340",
+   "title": "Das ist der Stand beim Landeshaushalt für 2027",
+   "source": "Zvw",
+   "link": "https://www.zvw.de/baden-w%C3%BCrttemberg/das-ist-der-stand-beim-landeshaushalt-f%C3%BCr-2027_arid-1106780",
+   "published": "2026-11-27T03:04:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "b845beca2072eb653b3d8a482485ce23",
+   "title": "Das ist der Stand beim Landeshaushalt für 2027",
+   "source": "Rheinpfalz",
+   "link": "https://www.rheinpfalz.de/startseite_artikel,-das-ist-der-stand-beim-landeshaushalt-f%C3%BCr-2027-_arid,5952577.html",
+   "published": "2026-11-27T03:04:00Z",
+   "country": "germany",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "4f89481f27baae05ca880fda09aa5ded",
+   "title": "Nasdaq selloff followed by a futures bounce, posts report",
+   "source": "Digg",
+   "link": "https://digg.com/world-business/g97tlb9u",
+   "published": "2026-11-27T03:04:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "c78bf922a60f97a7d465c69420373c55",
+   "title": "Ed Werder: Jerry Jones defends Mike McCarthy after Aaron Rodgers' work-ethic accusations",
+   "source": "Digg",
+   "link": "https://digg.com/sports/nurli3qm",
+   "published": "2026-11-27T03:04:00Z",
+   "country": "united states of america",
+   "category": "sports",
+   "language": "english"
+  },
+  {
+   "id": "6ea9b46a97cf4f158a13074021ba8e62",
+   "title": "Why More Lenders Are Selling Their Defaulted Loans Instead Of Foreclosing",
+   "source": "The Clinton News-banner",
+   "link": "https://myclintonnews.com/premium/stories/why-more-lenders-are-selling-their-defaulted-loans-instead-of-foreclosing,174410",
+   "published": "2026-11-27T03:03:21Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "896a1acb7b1e7bb833bdad2910ded248",
+   "title": "Michelin passe à 100 % de caoutchouc naturel zéro déforestation",
+   "source": "Trm24",
+   "link": "https://www.trm24.fr/michelin-passe-a-100-de-caoutchouc-naturel-zero-deforestation/",
+   "published": "2026-11-27T03:03:10Z",
+   "country": "france",
+   "category": "environment",
+   "language": "french"
+  },
+  {
+   "id": "044a8a0b14f540c3d891e3832ad3e079",
+   "title": "dYdX Chain Completes USD Coin (USDC) Migration to Injective-Backed Reserves Ahead of Noble USDC Contract Pause",
+   "source": "Econotimes",
+   "link": "https://econotimes.com/dYdX-Chain-Completes-USD-Coin-USDC-Migration-to-Injective-Backed-Reserves-Ahead-of-Noble-USDC-Contract-Pause-1780933",
+   "published": "2026-11-27T03:03:03Z",
+   "country": "australia",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "bae58cd204c8b79aea5ee20273dc8205",
+   "title": "Weimob, société cotée à Hong Kong, se lance dans un projet de construction de son propre cluster de GPU équipé de puces Nvidia",
+   "source": "Boursorama",
+   "link": "https://www.boursorama.com/bourse/actualites/weimob-societe-cotee-a-hong-kong-se-lance-dans-un-projet-de-construction-de-son-propre-cluster-de-gpu-equipe-de-puces-nvidia-2b42b0c135e8938e3768427477354395",
+   "published": "2026-11-27T03:02:59Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "e5393671c8e9569bc367b5a69af99eff",
+   "title": "Friedman Industries CEO buys $168,730 in company stock",
+   "source": "Investing Uk",
+   "link": "https://uk.investing.com/news/stock-market-news/friedman-industries-ceo-buys-168730-in-company-stock-93CH-5005909",
+   "published": "2026-11-27T03:02:09Z",
+   "country": "united kingdom",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "1da6f045fecbd10344af85da15a7b337",
+   "title": "Form 144 FOSTER L B CO For: 26 November",
+   "source": "Investing Uk",
+   "link": "https://uk.investing.com/news/stock-market-news/form-144-foster-l-b-co-for-26-november-93CH-5005908",
+   "published": "2026-11-27T03:02:08Z",
+   "country": "united kingdom",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "70f0620e3eb9176fdaf0385aafa47b28",
+   "title": "Huw Edwards Claims 'Lost the Plot' in Controversial Channel 4 Documentary",
+   "source": "Headtopics",
+   "link": "https://us.headtopics.com/news/huw-edwards-claims-lost-the-plot-in-controversial-channel-90224888",
+   "published": "2026-11-27T03:02:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "6a8d9368129b83e07a0387544a260b76",
+   "title": "Arizona acrobats describe terrifying ICE detention after tearful reunion",
+   "source": "Arizona's Family",
+   "link": "https://www.azfamily.com/2026/11/27/arizona-acrobats-describe-terrifying-ice-detention-after-tearful-reunion/",
+   "published": "2026-11-27T03:01:33Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "f9ffa987b77b3d42b413236e60021e70",
+   "title": "Le Black Friday d’InvestingPro : jusqu’à 60% de réduction sur les sélections IA",
+   "source": "Investing French",
+   "link": "https://fr.investing.com/news/stock-market-news/le-black-friday-dinvestingpro--jusqua-60-de-reduction-sur-les-selections-ia-3714154",
+   "published": "2026-11-27T03:01:14Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "0d6202d47a54322fc5794c11451443f0",
+   "title": "Joe Bennett Warns Parents Face Death in Iran Due to Government Inaction",
+   "source": "Headtopics",
+   "link": "https://us.headtopics.com/news/joe-bennett-warns-parents-face-death-in-iran-due-to-90224876",
+   "published": "2026-11-27T03:01:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "16cae26cddaa18b0abd07e8283845efa",
+   "title": "Dan Jarvis Addresses Mandelson Papers in Commons Statement on Government Risk",
+   "source": "Headtopics",
+   "link": "https://us.headtopics.com/news/dan-jarvis-addresses-mandelson-papers-in-commons-statement-90224866",
+   "published": "2026-11-27T03:01:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "633d0bcfd0fdd90a21cbcde64cb28340",
+   "title": "2026 Elections- Taiwan tells Meta of China accounts to influence polls",
+   "source": "Tucson Post",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CYUJpTGlnblV1eTVINjFvVWJKWmM1VkdySTE1eGFjQjZBandfbU0xZlZ3NFpDLTBEc25oTlU2WlNpT3pKM1dZMEFlZk9IZWZ6RFYydmcwcWFGc3MzSVhhNDlvb3ZTejhsVjlrcUdxWlNUenVudlB5dG5R?oc=5",
+   "published": "2026-11-27T03:00:44Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "6f2101132027cdeb8038f7f7c1327903",
+   "title": "Les actions de Japan Tobacco bondissent sur des rumeurs de rachat d’Imperial Brands",
+   "source": "Investing French",
+   "link": "https://fr.investing.com/news/stock-market-news/les-actions-de-japan-tobacco-bondissent-sur-des-rumeurs-de-rachat-dimperial-brands-3714152",
+   "published": "2026-11-27T03:00:37Z",
+   "country": "france",
+   "category": "health",
+   "language": "french"
+  },
+  {
+   "id": "d1a27110cdc3ca2d8dc7f52cea38563c",
+   "title": "Pourquoi l’action Japan Tobacco Inc bondit-elle aujourd’hui ?",
+   "source": "Investing French",
+   "link": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-japan-tobacco-inc-bonditelle-aujourdhui--93CH-3714156",
+   "published": "2026-11-27T03:00:37Z",
+   "country": "france",
+   "category": "health",
+   "language": "french"
+  },
+  {
+   "id": "d94435d1e5dca165b42b0afa85f266ea",
+   "title": "Egypt’s Libya Strategy: How Intelligence Diplomacy Is Bringing Eastern and Western Libya Closer",
+   "source": "Modern Diplomacy",
+   "link": "https://moderndiplomacy.eu/2026/11/27/egypts-libya-strategy-how-intelligence-diplomacy-is-bringing-eastern-and-western-libya-closer/",
+   "published": "2026-11-27T03:00:36Z",
+   "country": "israel",
+   "category": "world",
+   "language": "english"
+  },
+  {
+   "id": "af013eb5314efce79cbaea935bbf2ab5",
+   "title": "Democrats Appear to Be Plotting a Government Shutdown and the Senate GOP Needs to Get Tough [VIDEO]",
+   "source": "The Liberty Daily",
+   "link": "https://rumble.com/v7iz4v6-democrats-appear-to-be-plotting-a-government-shutdown-and-the-senate-gop-ne.html?mc=e16nv&mref=1htl22",
+   "published": "2026-11-27T03:00:36Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "11949a3c30b7d786f50ce72cb6ac7981",
+   "title": "New Zealand's ruling coalition falls one seat short of majority in final election count",
+   "source": "London Broadcasting Company",
+   "link": "https://www.lbc.co.uk/article/new-zealands-ruling-coalition-falls-one-seat-short-of-majority-in-final-election-5HjdncZ_2/",
+   "published": "2026-11-27T03:00:19Z",
+   "country": "united kingdom",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "a07e6c5e2d65647f45a595f7692d84b4",
+   "title": "Présidentielle 2027 : le point sur la situation",
+   "source": "La-croix",
+   "link": "https://www.la-croix.com/a-vif/presidentielle-2027-le-point-sur-la-situation-20261126",
+   "published": "2026-11-27T03:00:12Z",
+   "country": "france",
+   "category": "politics",
+   "language": "french"
+  },
+  {
+   "id": "31c1b27f47a22376b4207b757223fd6a",
+   "title": "«Wie wir heute bauen, bestimmt, wie wir morgen leben»",
+   "source": "Www.bote.ch",
+   "link": "https://www.bote.ch/nachrichten/sponsored/bwie-wir-heute-bauen-bestimmtbr-wie-wir-morgen-lebenb-art-1733922",
+   "published": "2026-11-27T03:00:02Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "9a80b9b9b3f59932f8dd6a1d6bd5458a",
+   "title": "Jetzt wird es ernst mit dem Flachgauer Hallenbad: Geschäftsführer gesucht",
    "source": "Salzburger Nachrichten",
-   "link": "https://www.sn.at/wirtschaft/oesterreich/oevp-minister-bei-spritpreisbremse-fuer-aus-von-margeneingriff-art-686285",
-   "published": "2026-11-26T14:51:00Z",
+   "link": "https://www.sn.at/salzburg/politik/jetzt-wird-es-ernst-mit-dem-flachgauer-hallenbad-geschaeftsfuehrer-gesucht-art-686276",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "12c26f392085a6a10e4b27339126cdf8",
+   "title": "Von Kant bis Huang",
+   "source": "Das Jüdische Wochenmagazin",
+   "link": "https://www.tachles.ch/artikel/standpunkte/von-kant-bis-huang",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "5a291416700a37a06d7086b38c01fd25",
+   "title": "Von Wurzeln und Flügeln",
+   "source": "Das Jüdische Wochenmagazin",
+   "link": "https://www.tachles.ch/artikel/standpunkte/von-wurzeln-und-fluegeln",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "4c9813cf46542e455d0f16c1af5d78a3",
+   "title": "Überwachung wegen Solidarität",
+   "source": "Das Jüdische Wochenmagazin",
+   "link": "https://www.tachles.ch/artikel/international/ueberwachung-wegen-solidaritaet",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "switzerland",
+   "category": "politics",
+   "language": "german"
+  },
+  {
+   "id": "feec6db73ad5c15b1d534218065fa6e4",
+   "title": "Arabische Abgeordnete und Terror",
+   "source": "Das Jüdische Wochenmagazin",
+   "link": "https://www.tachles.ch/artikel/standpunkte/arabische-abgeordnete-und-terror",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "switzerland",
+   "category": "crime",
+   "language": "german"
+  },
+  {
+   "id": "209289837a00dc359eb58099f19a8d8d",
+   "title": "Officials Laud Savastano's Service as Administrator",
+   "source": "Cape May County Herald",
+   "link": "https://www.capemaycountyherald.com/news/officials-laud-savastano-at-final-ocean-city-meeting-97afc123",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "united states of america",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "66003847467207d7ba532c1234e2be03",
+   "title": "Coffee shop could be named best in Bradford just weeks after opening",
+   "source": "Telegraph & Argus",
+   "link": "https://www.thetelegraphandargus.co.uk/news/26758620.new-coffee-shop-named-best-bradford/",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "united kingdom",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "9e0ea8c34593eb07a0baeea8f71db1b3",
+   "title": "Spain’s right turn: What a PP-Vox government would mean for Madrid — and Brussels",
+   "source": "Politico Europe",
+   "link": "https://www.politico.eu/article/spain-right-turn-what-pp-vox-government-would-mean-for-madrid-brussels/",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "romania",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "c9e571b7ad980708ce2c90bb23c67c8a",
+   "title": "Spain’s looming right-wing pivot on climate is already playing out in Valencia",
+   "source": "Politico Europe",
+   "link": "https://www.politico.eu/article/spain-looming-right-wing-pivot-on-climate-is-already-playing-out-in-valencia/",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "romania",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "429abbc202d139bdeb79ddf8938e06b6",
+   "title": "Ukraine cajoles allies to keep Putin’s athletes out",
+   "source": "Politico Europe",
+   "link": "https://www.politico.eu/article/ukraine-pushes-allies-keep-russian-athletes-out-putin-international-sport-restrictions/",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "romania",
+   "category": "politics",
+   "language": "english"
+  },
+  {
+   "id": "22e68afda12f145ba20e7d7ed97f5185",
+   "title": "Swingin’ on the flippity-flop with chicken nuggets: The perils of young people’s slang",
+   "source": "Politico Europe",
+   "link": "https://www.politico.eu/article/swingin-on-the-flippity-flop-with-chicken-nuggets-the-perils-of-young-peoples-slang/",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "romania",
+   "category": "education",
+   "language": "english"
+  },
+  {
+   "id": "cdcbc50994bbb9c7f233d63d3d3e8510",
+   "title": "Canadia Impact Fund investit dans Bamnang pour aider les étudiants à trouver un logement au Cambodge",
+   "source": "Lepetitjournal",
+   "link": "https://lepetitjournal.com/cambodge/canadia-impact-fund-investit-dans-bamnang-pour-aider-les-etudiants-trouver-un-logement-au-cambodge",
+   "published": "2026-11-27T03:00:00Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "056d6a036335065fb8d82936154d433f",
+   "title": "New York Silver Futures Rise 8% to $43.79 an Ounce Thursday",
+   "source": "Econotimes",
+   "link": "https://econotimes.com/New-York-Silver-Futures-Rise-8-to-43-79-an-Ounce-Thursday-1780932",
+   "published": "2026-11-27T02:58:24Z",
+   "country": "australia",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "0eaedcb3242868082522db992d6b7e08",
+   "title": "+54%, +41%, +41%: Asia’s AI-picked strategies leading their markets in 2026",
+   "source": "Investing Uk",
+   "link": "https://uk.investing.com/news/stock-market-news/54-41-41-asias-aipicked-strategies-leading-their-markets-in-2026-5005907",
+   "published": "2026-11-27T02:58:08Z",
+   "country": "united kingdom",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "92fa6b694a95c184633934628b1d1e61",
+   "title": "Japan Tobacco shares surge on report of Imperial Brands takeover",
+   "source": "Yahoo! News",
+   "link": "https://uk.finance.yahoo.com/news/japan-tobacco-shares-surge-report-025411282.html",
+   "published": "2026-11-27T02:54:11Z",
+   "country": "united kingdom",
+   "category": "business",
+   "language": "english"
+  },
+  {
+   "id": "bf698c533704595dfe980d8e0d2a386d",
+   "title": "Nouvelle-Zélande : la coalition au pouvoir perd de peu la majorité au Parlement",
+   "source": "Boursorama",
+   "link": "https://www.boursorama.com/actualite-economique/actualites/nouvelle-zelande-la-coalition-au-pouvoir-perd-de-peu-la-majorite-au-parlement-b8dc6f8563cfd4089d195910fb218577",
+   "published": "2026-11-27T02:52:28Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "99cb9f021689c88a69b153e9ea566921",
+   "title": "US-Börsen vor dem Absturz? Stratege warnt vor 40 Prozent Verlust",
+   "source": "Finanzen",
+   "link": "https://www.finanzen.at/nachrichten/aktien/us-boersen-vor-dem-absturz-stratege-warnt-vor-40-prozent-verlust-1036802211",
+   "published": "2026-11-27T02:51:40Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "dae1202134a41e2d5b4ad5db9d5f43f3",
+   "title": "Delimitation test explained: Can NDA secure two-thirds majority after April setback?",
+   "source": "News9live",
+   "link": "https://www.news9live.com/india/delimitation-test-explained-can-nda-secure-two-thirds-majority-after-april-setback-3028068",
+   "published": "2026-11-27T02:51:00Z",
+   "country": "united kingdom",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "46e507c36d24c8cd090d54268a907765",
+   "title": "Trump öffnet Tür für Zusammenarbeit mit Demokraten",
+   "source": "Hoefner",
+   "link": "https://www.keystone-sda.ch/20261127034831829194158159026",
+   "published": "2026-11-27T02:48:00Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "80913bdb54ca5669433eb022e2f514e3",
+   "title": "Italy Furious Over Secret Ukraine Strike in Libya Amid Fears War Could Choke a Quarter of Rome's Crude Oil",
+   "source": "International Business Times",
+   "link": "https://www.ibtimes.co.uk/italy-accuses-ukraine-libya-sovereignty-benghazi-strike-1835097",
+   "published": "2026-11-27T02:46:18Z",
+   "country": "united kingdom",
+   "category": "crime",
+   "language": "english"
+  },
+  {
+   "id": "66810d423420119fb792d31e93a33cd3",
+   "title": "Strobe Talbott: the journalist who translated Soviet secrets dies",
+   "source": "The Times",
+   "link": "https://www.thetimes.com/us/american-politics/article/strobe-talbott-obituary-death-j9zl7bfg6",
+   "published": "2026-11-27T02:45:00Z",
+   "country": "united kingdom",
+   "category": "politics",
+   "language": "english"
+  },
+  {
+   "id": "575a4ddcd1bf919111b47f19347ea38e",
+   "title": "L'Algérie a expulsé près de 32 000 migrants vers le Niger depuis janvier, selon une ONG",
+   "source": "Quartz En Français",
+   "link": "https://fr.qz.com/algerie-expulse-migrants-niger-alarme-phone-sahara-2026-112726",
+   "published": "2026-11-27T02:42:11Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "c435a1295d060f0e2ea922f28c073ab5",
+   "title": "RÉSUMÉ DE LA PRESSE-Actualités économiques britanniques - 27 novembre",
+   "source": "Boursorama",
+   "link": "https://www.boursorama.com/bourse/actualites/resume-de-la-presse-actualites-economiques-britanniques-27-novembre-5ded2c0471055fefb759507f033704dc",
+   "published": "2026-11-27T02:41:42Z",
+   "country": "france",
+   "category": "business",
+   "language": "french"
+  },
+  {
+   "id": "13c0dcb7d5c662c93a9afa77f4dd1f54",
+   "title": "Le CAC 40 a gagné 1,61 % jeudi et a clôturé au-dessus de 8 000 points",
+   "source": "Quartz En Français",
+   "link": "https://fr.qz.com/cac-40-cloture-hausse-8000-points-stellantis-112726",
+   "published": "2026-11-27T02:40:19Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "b51274766d2403a34cd8cd7fd8d6e395",
+   "title": "Trump teilt an Thanksgiving gegen Somalier, Ökonomen und Kriminelle aus",
+   "source": "Blick",
+   "link": "https://www.blick.ch/ausland/trump-attackiert-somalier-in-thanksgiving-botschaft/lfqjj5n",
+   "published": "2026-11-27T02:38:54Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "388864cb6ed7cf26d48b9debce273045",
+   "title": "UBS-Ausblick: Wo Schwellenländeraktien 2027 Renditechancen bieten",
+   "source": "Finanzen.ch",
+   "link": "https://www.finanzen.ch/nachrichten/aktien/ubs-ausblick-wo-schwellenlanderaktien-2027-renditechancen-bieten-1036802182",
+   "published": "2026-11-27T02:38:22Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "9673f73f12e85f7b09b613e486a24588",
+   "title": "Guerre en Ukraine : Les femmes enceintes forcées de rester dans l’armée ?",
+   "source": "20 Minutes",
+   "link": "https://www.20minutes.fr/monde/ukraine/4266077-20261127-guerre-ukraine-femmes-enceintes-forcees-rester-armee",
+   "published": "2026-11-27T02:32:36Z",
+   "country": "france",
+   "category": "crime",
+   "language": "french"
+  },
+  {
+   "id": "4cb8b8268f2a724ef510e1d2fb712a73",
+   "title": "DPDP Act and GDPR: What global enterprises need to know about data privacy",
+   "source": "Securitybrief Uk",
+   "link": "https://securitybrief.co.uk/story/dpdp-act-and-gdpr-what-global-enterprises-need-to-know-about-data-privacy",
+   "published": "2026-11-27T02:30:00Z",
+   "country": "united kingdom",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "72a881baf95cce73cd6202062d348ebd",
+   "title": "Football : Emmanuel Macron condamne fermement les violences contre des supporteurs bulgares à Marseille, Sofia réclame une enquête",
+   "source": "Le Monde",
+   "link": "https://www.lemonde.fr/sport/article/2026/11/27/football-emmanuel-macron-condamne-fermement-les-violences-contre-des-supporteurs-bulgares-a-marseille-sofia-reclame-une-enquete_6815725_3242.html",
+   "published": "2026-11-27T02:27:09Z",
+   "country": "france",
+   "category": "sports",
+   "language": "french"
+  },
+  {
+   "id": "80a69e6827095d78ad820964b1497b80",
+   "title": "Rechte Regierung verliert Mehrheit in Neuseeland",
+   "source": "News.at",
+   "link": "https://www.news.at/politik/rechte-regierung-verliert-mehrheit-in-neuseeland",
+   "published": "2026-11-27T02:23:13Z",
+   "country": "austria",
+   "category": "politics",
+   "language": "german"
+  },
+  {
+   "id": "90f6daf6173b9546e5068aa563a7b625",
+   "title": "La coalition au pouvoir de la Nouvelle-Zélande a manqué d'un siège pour obtenir la majorité lors du décompte final des votes.",
+   "source": "Quartz En Français",
+   "link": "https://fr.qz.com/new-zealand-coalition-short-majority-one-seat-final-count-112626",
+   "published": "2026-11-27T02:20:16Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "89ae8bbc754825b496c2818fe8a115cd",
+   "title": "Trois collectifs veulent bloquer l'accès au banquet du Canon français à Biarritz",
+   "source": "Quartz En Français",
+   "link": "https://fr.qz.com/trois-collectifs-bloquer-banquet-canon-francais-biarritz-112726",
+   "published": "2026-11-27T02:17:37Z",
+   "country": "france",
+   "category": "top",
+   "language": "french"
+  },
+  {
+   "id": "24654a251fa675cdd9d8da0fbf6051b1",
+   "title": "NVIDIA-Aktie: Soros verkauft Millionenanteil vor Affäre – was wussten Großanleger?",
+   "source": "Finanzen",
+   "link": "https://www.finanzen.at/nachrichten/aktien/nvidia-aktie-soros-verkauft-millionenanteil-vor-affare-was-wussten-grossanleger-1036802264",
+   "published": "2026-11-27T02:17:35Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "d3e901fddec383b3265201794b03404f",
+   "title": "Rechte Regierung verliert Mehrheit in Neuseeland",
+   "source": "Salzburger Nachrichten",
+   "link": "https://www.sn.at/politik/weltpolitik/rechte-regierung-verliert-mehrheit-in-neuseeland-art-686349",
+   "published": "2026-11-27T02:16:00Z",
+   "country": "austria",
+   "category": "politics",
+   "language": "german"
+  },
+  {
+   "id": "c931da8b0b6a94abd305c947c95d3552",
+   "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back",
+   "published": "2026-11-27T02:14:25Z",
+   "country": "qatar",
+   "category": "top",
+   "language": "english"
+  },
+  {
+   "id": "ea9878cbf17e9b15c1e28c0cf2186716",
+   "title": "Rechte Regierung verliert Mehrheit in Neuseeland",
+   "source": "Tiroler Tageszeitung",
+   "link": "https://www.tt.com/artikel/30947844/rechte-regierung-verliert-mehrheit-in-neuseeland",
+   "published": "2026-11-27T02:13:52Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "f0548a3e8bbf93b4ec77bd46acc61bd5",
+   "title": "Trump sieht in Nvidia-Chef Huang kein Sicherheitsrisiko",
+   "source": "Salzburger Nachrichten",
+   "link": "https://www.sn.at/wirtschaft/welt/trump-sieht-in-nvidia-chef-huang-kein-sicherheitsrisiko-art-686348",
+   "published": "2026-11-27T02:13:00Z",
    "country": "austria",
    "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "ae5e6bf229d12c6eb7b32a071ddd64f6",
+   "title": "Trump offen für Putin-Besuch bei G20-Gipfel in Florida",
+   "source": "Salzburger Nachrichten",
+   "link": "https://www.sn.at/politik/weltpolitik/trump-offen-fuer-putin-besuch-bei-g20-gipfel-in-florida-art-686347",
+   "published": "2026-11-27T02:13:00Z",
+   "country": "austria",
+   "category": "politics",
+   "language": "german"
+  },
+  {
+   "id": "f20ae6b0dc5d02f8d9fa183a019a39e6",
+   "title": "Junge SVP Luzern weist Vorwürfe der Mutterpartei zurück",
+   "source": "Hoefner",
+   "link": "https://www.keystone-sda.ch/20261127031130922194158159026",
+   "published": "2026-11-27T02:11:00Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "83170a3020b61c5a28fe91a6aafba844",
+   "title": "Erik Hofer – wenn die Uhr nicht tickt",
+   "source": "Meinbezirk",
+   "link": "https://www.meinbezirk.at/neunkirchen/c-lokales/erik-hofer-wenn-die-uhr-nicht-tickt_a9031557",
+   "published": "2026-11-27T02:00:06Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "2b35401c2963cb020181ea37674499a1",
+   "title": "Trump offen für Putin-Besuch bei G20-Gipfel in Florida",
+   "source": "Tiroler Tageszeitung",
+   "link": "https://www.tt.com/artikel/30947843/trump-offen-fuer-putin-besuch-bei-g20-gipfel-in-florida",
+   "published": "2026-11-27T01:58:39Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "97af4d5877fd95232aeb71c6f006dcec",
+   "title": "Trump sieht \"Hass\" zwischen Putin und Selenskyj als Hürde",
+   "source": "Tiroler Tageszeitung",
+   "link": "https://www.tt.com/artikel/30947843/trump-sieht-hass-zwischen-putin-und-selenskyj-als-huerde",
+   "published": "2026-11-27T01:58:39Z",
+   "country": "austria",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "7b0fdde24519d46adc49df5cf892f262",
+   "title": "Nach achtstündiger Debatte: Diese Organisationen erhalten weiterhin Geld von der Stadt",
+   "source": "Oltner Tagblatt",
+   "link": "https://www.oltnertagblatt.ch/solothurn/olten/olten-hohes-defizit-im-budget-gerettete-leistungsvereinbarungen-ld.4274792",
+   "published": "2026-11-27T01:55:28Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "09724420b26603bc04f514921a65c5fb",
+   "title": "Schwerwiegendster Security-Vorfall seit über 40 Jahren",
+   "source": "Heute",
+   "link": "https://www.heute.at/s/schwerwiegendster-security-vorfall-seit-ueber-40-jahren-120287903",
+   "published": "2026-11-27T01:46:19Z",
+   "country": "austria",
+   "category": "crime",
+   "language": "german"
+  },
+  {
+   "id": "4440aa8cdbc67150522e3ea8e540c917",
+   "title": "IAEA-Warnung nach 28. Stromausfall im AKW Saporischschja",
+   "source": "Tiroler Tageszeitung",
+   "link": "https://www.tt.com/artikel/30947842/iaea-warnung-nach-28-stromausfall-im-akw-saporischschja",
+   "published": "2026-11-27T01:39:53Z",
+   "country": "austria",
+   "category": "crime",
+   "language": "german"
+  },
+  {
+   "id": "62bbb6a7bdf711b7f505e3a3f51c590d",
+   "title": "EU-Finanzplanung bis 2034 – Sondergipfel wird vorzeitig abgebrochen",
+   "source": "Srf",
+   "link": "https://www.srf.ch/news/international/eu-finanzplanung-bis-2034-sondergipfel-wird-vorzeitig-abgebrochen",
+   "published": "2026-11-27T01:10:05Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "8840c95e53b2055d6f3fd0e26b66f6db",
+   "title": "EU-Finanzplanung bis 2034 – Sondergipfel wird vorzeitig beendet",
+   "source": "Srf",
+   "link": "https://www.srf.ch/news/international/eu-finanzplanung-bis-2034-sondergipfel-wird-vorzeitig-beendet",
+   "published": "2026-11-27T01:10:05Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "3633184514423ad7a39055474cc218ac",
+   "title": "Kaum Fortschritte beim EU-Haushalt: Gipfel vorzeitig beendet",
+   "source": "Hoefner",
+   "link": "https://www.keystone-sda.ch/20261127015145095194158159026",
+   "published": "2026-11-27T00:51:00Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "c5e4dd3e488475f3602063dd14d71f4b",
+   "title": "Paketsteuer: VfGH prüft Zalando-Antrag auf Aufhebung",
+   "source": "Trend.at",
+   "link": "https://www.trend.at/politik/vfgh-prueft-im-dezember-zalando-antrag-auf-aufhebung-der-paketsteuer",
+   "published": "2026-11-27T00:00:00Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "1ed1be46e74612bc26b1a351cbcf6a2c",
+   "title": "Frankreichs Inflation sinkt überraschend deutlich",
+   "source": "Trend.at",
+   "link": "https://www.trend.at/news/frankreichs-inflation-schwacht-sich-uberraschend-deutlich-ab",
+   "published": "2026-11-27T00:00:00Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "68b43cc784d68a0d2356fa98d6bff48d",
+   "title": "Österreich nominiert Finanzbildungsbotschafter",
+   "source": "Trend.at",
+   "link": "https://www.trend.at/politik/oesterreich-nominiert-finanzbildungsbotschafter",
+   "published": "2026-11-27T00:00:00Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "1b71136f54d298ba51989b34b70b645e",
+   "title": "Leitbörsen in Asien: Chinas Märkte stark im Plus",
+   "source": "Trend.at",
+   "link": "https://www.trend.at/news/leitborsen-in-asien-mit-weiteren-gewinnen-china-stark",
+   "published": "2026-11-27T00:00:00Z",
+   "country": "austria",
+   "category": "business",
+   "language": "german"
+  },
+  {
+   "id": "89fcf45b7d05cc1fa8a311006871544a",
+   "title": "Mehr als Visitenkarten-Tauschen: Wie das Frauennetz Schwyzerinnen weiterbringt",
+   "source": "Www.bote.ch",
+   "link": "https://www.bote.ch/nachrichten/schwyz/mehr-als-visitenkarten-tauschen-wie-das-frauennetz-schwyzerinnen-weiterbringt-art-1734300",
+   "published": "2026-11-26T23:05:00Z",
+   "country": "switzerland",
+   "category": "top",
+   "language": "german"
+  },
+  {
+   "id": "d627e6c51faf88b74d86dca66e7e80c1",
+   "title": "Das Defizit verringert sich",
+   "source": "Www.bote.ch",
+   "link": "https://www.bote.ch/nachrichten/schwyz/das-defizit-verringert-sich-art-1734315",
+   "published": "2026-11-26T23:05:00Z",
+   "country": "switzerland",
+   "category": "top",
    "language": "german"
   },
   {
@@ -372,16 +1442,6 @@
    "published": "2026-11-26T14:49:56Z",
    "country": "germany",
    "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "c0db8af658238387e5d9e411092819e4",
-   "title": "Tiroler sind besonders sensibel für Kinderschutz auf Social Media",
-   "source": "Tiroler Tageszeitung",
-   "link": "https://www.tt.com/artikel/30947809/tiroler-sind-besonders-sensibel-fuer-kinderschutz-auf-social-media",
-   "published": "2026-11-26T14:49:56Z",
-   "country": "austria",
-   "category": "politics",
    "language": "german"
   },
   {
@@ -995,16 +2055,6 @@
    "language": "german"
   },
   {
-   "id": "841321a1cd1d27447c2b3b4a59f03dad",
-   "title": "Mutmaßlicher Russland-Spion gesteht",
-   "source": "Finanzen",
-   "link": "https://www.finanzen.at/nachrichten/aktien/mutmasslicher-russland-spion-gesteht-1036803090",
-   "published": "2026-11-26T14:30:38Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
    "id": "450376740b83b6779fad4fe8bb0fe4c0",
    "title": "U-Ausschuss: Nehammers Kampf gegen das „Hörensagen“",
    "source": "Kurier",
@@ -1075,16 +2125,6 @@
    "language": "german"
   },
   {
-   "id": "9a690e417a9f95da84f09c0808530f3a",
-   "title": "Protestaktionen gegen den Auftritt von Anna Netrebko in Basel",
-   "source": "Hoefner",
-   "link": "https://www.keystone-sda.ch/20261126152420279194158159026",
-   "published": "2026-11-26T14:24:00Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
    "id": "87ca7c12f49968ae0acb2c9e23c5989d",
    "title": "Altria prüft Übernahme von Imperial Brands - Japan Tobacco auch interessiert",
    "source": "Cash",
@@ -1122,16 +2162,6 @@
    "published": "2026-11-26T14:12:00Z",
    "country": "switzerland",
    "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "0b76c7dac2379e5ccfde2268697803d8",
-   "title": "Pablo Hernández de Cos soll EZB-Chef werden",
-   "source": "Hoefner",
-   "link": "https://www.keystone-sda.ch/20261126150521504194158159026",
-   "published": "2026-11-26T14:05:00Z",
-   "country": "switzerland",
-   "category": "sports",
    "language": "german"
   },
   {
@@ -1355,16 +2385,6 @@
    "language": "english"
   },
   {
-   "id": "bd7ca315b8aaff1742ad51289db2e21a",
-   "title": "London Rickshaws Face New Licensing Rules and Fixed Fares to Combat Rip-Offs",
-   "source": "Headtopics",
-   "link": "https://us.headtopics.com/news/london-rickshaws-face-new-licensing-rules-and-fixed-fares-90193489",
-   "published": "2026-11-26T03:17:00Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
    "id": "597eab243897fc3c1e7250d91487758b",
    "title": "Fosun International Named \"Sustainability Leading Enterprise\" by Bloomberg Businessweek/Chinese Edition",
    "source": "Clevelandbanner",
@@ -1373,36 +2393,6 @@
    "country": "united states of america",
    "category": "environment",
    "language": "english"
-  },
-  {
-   "id": "5483f661b05b81d8a7cdee2efc960c69",
-   "title": "UK Should Adopt Native Thanksgiving to Resist American Cultural Influence",
-   "source": "Headtopics",
-   "link": "https://us.headtopics.com/news/uk-should-adopt-native-thanksgiving-to-resist-american-90193482",
-   "published": "2026-11-26T03:17:00Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "5328e6bb25567edde5a3c63ab2490c31",
-   "title": "Young UK Adults Report Lowest Sex Levels as Self-Worth Rises",
-   "source": "Headtopics",
-   "link": "https://us.headtopics.com/news/young-uk-adults-report-lowest-sex-levels-as-self-worth-rises-90193479",
-   "published": "2026-11-26T03:17:00Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "76638a6e17934ecc3b12554500e927ff",
-   "title": "Hong Kong : hommages aux 168 morts de l'incendie de sept gratte-ciels, les autorités mettent en garde",
-   "source": "Boursorama",
-   "link": "https://www.boursorama.com/actualite-economique/actualites/hong-kong-hommages-aux-168-morts-de-l-incendie-de-sept-gratte-ciels-les-autorites-mettent-en-garde-3220957f729df3dc15b78f88f23b8371",
-   "published": "2026-11-26T03:16:45Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
   },
   {
    "id": "6827326acf67a20211b3b21e2be68a46",
@@ -1422,36 +2412,6 @@
    "published": "2026-11-26T03:16:13Z",
    "country": "united states of america",
    "category": "politics",
-   "language": "english"
-  },
-  {
-   "id": "6a4e179f6c27b844d6df2430e02219f1",
-   "title": "Galaxy Digital CFO buys $268k in company stock",
-   "source": "Investing Uk",
-   "link": "https://uk.investing.com/news/stock-market-news/galaxy-digital-cfo-buys-268k-in-company-stock-93CH-5005182",
-   "published": "2026-11-26T03:16:13Z",
-   "country": "united kingdom",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "42b64cf594baf396032a2ef1ab58e4be",
-   "title": "Zimmer Biomet executive sells $1.1M in company stock",
-   "source": "Investing Uk",
-   "link": "https://uk.investing.com/news/stock-market-news/zimmer-biomet-executive-sells-11m-in-company-stock-93CH-5005186",
-   "published": "2026-11-26T03:16:12Z",
-   "country": "united kingdom",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "deb626856bfbd7160f2308ced1f1a0b5",
-   "title": "Form 4 Universal Insurance Holdings Inc: Stephen Donaghy (Director, CEO) For: 23 November",
-   "source": "Investing Uk",
-   "link": "https://uk.investing.com/news/stock-market-news/form-4-universal-insurance-holdings-inc-stephen-donaghy-director-ceo-for-23-november-93CH-5005181",
-   "published": "2026-11-26T03:16:11Z",
-   "country": "united kingdom",
-   "category": "business",
    "language": "english"
   },
   {
@@ -1485,16 +2445,6 @@
    "language": "french"
   },
   {
-   "id": "a18def44b89752b27872f49c7af73ac9",
-   "title": "Nvidia a accepté de verser 290 millions de dollars pour clore une action de groupe",
-   "source": "Quartz En Français",
-   "link": "https://fr.qz.com/nvidia-accord-290-millions-dollars-actionnaires-cryptomonnaies-112626",
-   "published": "2026-11-26T03:15:23Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
    "id": "dbdef0fc3bf90d2b5392e8b33af1aa6e",
    "title": "Kahuku Students Face Power Outages as Electrical Fixes Wait Until 2028",
    "source": "Hoodline",
@@ -1503,16 +2453,6 @@
    "country": "united states of america",
    "category": "politics",
    "language": "english"
-  },
-  {
-   "id": "df0f820a78726131fc0048524bbea93a",
-   "title": "L'Allemagne a évité les routes polonaises pour acheminer ses chars en Lituanie",
-   "source": "Quartz En Français",
-   "link": "https://fr.qz.com/allemagne-evite-routes-polonaises-chars-lituanie-exercice-otan-112626",
-   "published": "2026-11-26T03:15:19Z",
-   "country": "france",
-   "category": "crime",
-   "language": "french"
   },
   {
    "id": "2132c63559042bafcb219e3fede4e275",
@@ -1553,26 +2493,6 @@
    "country": "united states of america",
    "category": "top",
    "language": "english"
-  },
-  {
-   "id": "2b216e2f917f96cf69365c3a2a4b5b0e",
-   "title": "Washington a approuvé la vente de pièces de F-16 à l'Ukraine pour 600 millions de dollars",
-   "source": "Quartz En Français",
-   "link": "https://fr.qz.com/etats-unis-approuvent-vente-pieces-f16-ukraine-112626",
-   "published": "2026-11-26T03:13:54Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "01a1d0224993f9cadeffa4efe094c7fd",
-   "title": "Maria Corina Machado promet de refonder l'État vénézuélien devant des étudiants",
-   "source": "Quartz En Français",
-   "link": "https://fr.qz.com/maria-corina-machado-promet-refonder-etat-venezuela-etudiants-112626",
-   "published": "2026-11-26T03:13:40Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
   },
   {
    "id": "758494644fa091707f5d925c892b8ae9",
@@ -1785,16 +2705,6 @@
    "language": "french"
   },
   {
-   "id": "2814b117a0133cd14cdbe3bda580c252",
-   "title": "OUTSET renforce son implantation en France",
-   "source": "Trm24",
-   "link": "https://www.trm24.fr/outset-renforce-son-implantation-en-france/",
-   "published": "2026-11-26T03:01:35Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
-  },
-  {
    "id": "7f24c773af5c063308c5a12e8534df50",
    "title": "Côte d'Ivoire: 234 personnes arrêtées en marge de la présidentielle de 2025 remises en liberté",
    "source": "Rfi",
@@ -1825,16 +2735,6 @@
    "language": "french"
   },
   {
-   "id": "f4a8a38ae96a1b31ccf5ed97739532c3",
-   "title": "Aberseer übernehmen Lagerhaus-Standort - Bekannter Ex-Landespolitiker zieht die Fäden",
-   "source": "Salzburger Nachrichten",
-   "link": "https://www.sn.at/salzburg/chronik/aberseer-uebernehmen-lagerhaus-standort-bekannter-ex-landespolitiker-zieht-die-faeden-art-686083",
-   "published": "2026-11-26T03:00:00Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
    "id": "6b12a89f6edc182f5b1225bacb7aa840",
    "title": "Personalie: Sven Kolb",
    "source": "Leaders Net",
@@ -1843,46 +2743,6 @@
    "country": "austria",
    "category": "business",
    "language": "german"
-  },
-  {
-   "id": "36898741c39804e61e6fa575be1e53a5",
-   "title": "„Politposse der Extraklasse“: Salzburger SPÖ blamiert sich mit eigener Umfrage",
-   "source": "Salzburger Nachrichten",
-   "link": "https://www.sn.at/salzburg/politik/politposse-der-extraklasse-salzburger-spoe-blamiert-sich-mit-eigener-umfrage-art-686066",
-   "published": "2026-11-26T03:00:00Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "a09818c05b70fed0b885b88e2dd80de3",
-   "title": "5 budget battles to watch at the EU summit",
-   "source": "Politico Europe",
-   "link": "https://www.politico.eu/article/5-budget-battles-to-watch-at-the-eu-summit/",
-   "published": "2026-11-26T03:00:00Z",
-   "country": "sweden",
-   "category": "politics",
-   "language": "english"
-  },
-  {
-   "id": "d2fa5e2c67f443513b4b1f26f37849ba",
-   "title": "How to watch the Spanish election like a pro",
-   "source": "Politico Europe",
-   "link": "https://www.politico.eu/article/how-to-watch-the-spanish-election-like-a-pro/",
-   "published": "2026-11-26T03:00:00Z",
-   "country": "romania",
-   "category": "politics",
-   "language": "english"
-  },
-  {
-   "id": "b3bc50e39034eb052ca8befa19d1c4df",
-   "title": "Why Jean-Luc Mélenchon has it in for Germany",
-   "source": "Politico Europe",
-   "link": "https://www.politico.eu/article/why-jean-luc-melenchon-has-it-in-for-germany/",
-   "published": "2026-11-26T03:00:00Z",
-   "country": "romania",
-   "category": "politics",
-   "language": "english"
   },
   {
    "id": "9b11bad1c1db433c75effb565c62206b",
@@ -1913,16 +2773,6 @@
    "country": "united kingdom",
    "category": "top",
    "language": "english"
-  },
-  {
-   "id": "c96bc69979ec2e42a4d30a847594f83f",
-   "title": "KI-Boom vor dem Ende? Gensler warnt vor massivem Börsencrash",
-   "source": "Finanzen",
-   "link": "https://www.finanzen.at/nachrichten/aktien/ki-boom-vor-dem-ende-gensler-warnt-vor-massivem-boersencrash-1036798736",
-   "published": "2026-11-26T02:45:43Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
   },
   {
    "id": "6adfbca30b4f143dcd59e48e18e0f20c",
@@ -1975,26 +2825,6 @@
    "language": "french"
   },
   {
-   "id": "74029414ccd7a1052767dc3bb7190e71",
-   "title": "US-Richterin stoppt Lizenzentzug für Disney-Sender",
-   "source": "Salzburger Nachrichten",
-   "link": "https://www.sn.at/politik/weltpolitik/us-richterin-stoppt-lizenzentzug-fuer-disney-sender-art-686113",
-   "published": "2026-11-26T02:38:00Z",
-   "country": "austria",
-   "category": "politics",
-   "language": "german"
-  },
-  {
-   "id": "6d29c2ff1bc64104dbb220268fddac17",
-   "title": "EU-Sondergipfel ringt um neues EU-Budget und Ukraine-Mittel",
-   "source": "Tiroler Tageszeitung",
-   "link": "https://www.tt.com/artikel/30947737/eu-sondergipfel-ringt-um-neues-eu-budget-und-ukraine-mittel",
-   "published": "2026-11-26T02:30:13Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
    "id": "3b2392782068034e6e56ef721202af54",
    "title": "Deutsche Bank warnt: Anleger unterschätzen das Zinsrisiko für Aktien",
    "source": "Finanzen.ch",
@@ -2005,41 +2835,11 @@
    "language": "german"
   },
   {
-   "id": "1ffff84971d936723dbacf5a466040b4",
-   "title": "NVIDIA-Aktie: Was wussten Soros und andere Grossinvestoren im Vorfeld der Affäre?",
-   "source": "Finanzen.ch",
-   "link": "https://www.finanzen.ch/nachrichten/aktien/nvidia-aktie-was-wussten-soros-und-andere-grossinvestoren-im-vorfeld-der-affare-1036798707",
-   "published": "2026-11-26T02:25:05Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "87ccb13a14fa4f89df2a45aca207dd22",
-   "title": "Erneuter russischer Raketenangriff auf Kiew",
-   "source": "Tiroler Tageszeitung",
-   "link": "https://www.tt.com/artikel/30947736/erneuter-russischer-raketenangriff-auf-kiew",
-   "published": "2026-11-26T02:24:08Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
    "id": "c10a6ddc8dbe2253c0473e419f0dcabc",
    "title": "Migranten-Ansturm auf El Hierro - «Die Kanaren können nicht mehr»",
    "source": "Blick",
    "link": "https://www.blick.ch/ausland/migranten-ansturm-auf-el-hierro-die-kanaren-koennen-nicht-mehr/em5x6df",
    "published": "2026-11-26T02:18:01Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "221b2fbf34d8c66a769ab83ab120f015",
-   "title": "SVP plant eine Aussprache mit Westschweizer Parteivertretern",
-   "source": "Hoefner",
-   "link": "https://www.keystone-sda.ch/20261126025918685194158159026",
-   "published": "2026-11-26T01:59:00Z",
    "country": "switzerland",
    "category": "top",
    "language": "german"
@@ -2095,56 +2895,6 @@
    "language": "german"
   },
   {
-   "id": "ce7b3a108357c89fe5c82c799f12812e",
-   "title": "EU macht Westbalkan-Staaten Hoffnung auf Aufnahme",
-   "source": "Tiroler Tageszeitung",
-   "link": "https://www.tt.com/artikel/30947734/eu-macht-westbalkan-staaten-hoffnung-auf-aufnahme",
-   "published": "2026-11-26T00:01:00Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "d16c779dd0c9600f107c328e3b62b93e",
-   "title": "S&P stuft Nvidia nach Führungswirren herab",
-   "source": "Trend.at",
-   "link": "https://www.trend.at/news/sp-droht-nvidia-nach-fuhrungswirren-mit-herabstufung",
-   "published": "2026-11-26T00:00:00Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "eec0a089c0ffe877b2dfe13750ae88e5",
-   "title": "Beige Book: US-Wirtschaft wächst moderat",
-   "source": "Trend.at",
-   "link": "https://www.trend.at/news/beige-book-us-wirtschaft-wachst-leicht-bis-moderat",
-   "published": "2026-11-26T00:00:00Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "f2c064e99a99330978fc43c26b0893ee",
-   "title": "US-Börsen: Nasdaq erholt sich, Dow im Plus",
-   "source": "Trend.at",
-   "link": "https://www.trend.at/news/us-borsen-nasdaq-holt-starkes-minus-fast-auf-dow-im-plus",
-   "published": "2026-11-26T00:00:00Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "31d0da1485fe3c36327e726b50d273a9",
-   "title": "VIG steigert Erträge und Gewinn nach 3 Quartalen",
-   "source": "Trend.at",
-   "link": "https://www.trend.at/news/vig-steigert-ertrage-und-gewinn-nach-drei-quartalen",
-   "published": "2026-11-26T00:00:00Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
    "id": "a3359afb4df70284deff436e546e67b6",
    "title": "Die US-Börse setzt ihre Achterbahnfahrt fort – und weder Donald Trump noch Jensen Huang können etwas daran ändern",
    "source": "Nzz",
@@ -2175,32 +2925,12 @@
    "language": "german"
   },
   {
-   "id": "f467f65d87e8088640c51bdb03aa3e47",
-   "title": "Trichlerverein Studen hat zwei Neue im Probejahr",
-   "source": "Www.bote.ch",
-   "link": "https://www.bote.ch/nachrichten/vereine/trichlerverein-studen-hat-zwei-neue-im-probejahr-art-1734103",
-   "published": "2026-11-25T23:05:00Z",
-   "country": "switzerland",
-   "category": "sports",
-   "language": "german"
-  },
-  {
    "id": "beb323a504c343104200952f1e9f979e",
    "title": "„Wie verhext“",
    "source": "Meinbezirk",
    "link": "https://www.meinbezirk.at/grieskirchen-eferding/c-freizeit/wie-verhext_a9007908",
    "published": "2026-11-25T23:00:07Z",
    "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "ae5f1da65193ef65e53565968f62d93b",
-   "title": "Beschimpfungen, Wurfgeschosse – und ein giftiger Ärzte-Streit",
-   "source": "Blick",
-   "link": "https://www.blick.ch/schweiz/bern/spital-thun-vorwuerfe-gegen-chirurgie-im-fall-rolf-hess/tmjhf8t",
-   "published": "2026-11-25T23:00:03Z",
-   "country": "switzerland",
    "category": "top",
    "language": "german"
   },
@@ -2675,16 +3405,6 @@
    "language": "english"
   },
   {
-   "id": "86ae51c07205f69f5db1c272b3346175",
-   "title": "TP ICAP Midcap salue les perspectives présentées par Icape",
-   "source": "Boursorama",
-   "link": "https://www.boursorama.com/bourse/actualites/tp-icap-midcap-salue-les-perspectives-presentees-par-icape-ca533af6dca58f1c403fecebc24218db",
-   "published": "2026-11-25T14:50:00Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
-  },
-  {
    "id": "0145a8a4717234c6164fe67314ded75c",
    "title": "MADD Canada accueille l’introduction d’une législation plus sévère sur la conduite avec capacités affaiblies en Saskatchewan",
    "source": "Globenewswire_fr",
@@ -2782,16 +3502,6 @@
    "published": "2026-11-25T14:49:00Z",
    "country": "united kingdom",
    "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "1cfe1612583c3f6872e6ec8afbd74935",
-   "title": "EU Parliament’s socialists and liberals halt talks with EPP",
-   "source": "Politico Europe",
-   "link": "https://www.politico.eu/article/eu-parliaments-socialists-and-liberals-halt-talks-with-epp/",
-   "published": "2026-11-25T14:48:51Z",
-   "country": "romania",
-   "category": "politics",
    "language": "english"
   },
   {
@@ -2922,16 +3632,6 @@
    "published": "2026-11-25T14:46:30Z",
    "country": "france",
    "category": "politics",
-   "language": "french"
-  },
-  {
-   "id": "79fb360708131f3709d79c3d279fd7e0",
-   "title": "Enquête RN : un préfet remplacé, un procureur adjoint visé par l'Inspection judiciaire",
-   "source": "Boursorama",
-   "link": "https://www.boursorama.com/actualite-economique/actualites/enquete-rn-un-prefet-remplace-un-procureur-adjoint-vise-par-l-inspection-judiciaire-7124d9305e25786504e81d91ffaeaa53",
-   "published": "2026-11-25T14:46:02Z",
-   "country": "france",
-   "category": "business",
    "language": "french"
   },
   {
@@ -3125,16 +3825,6 @@
    "language": "german"
   },
   {
-   "id": "e61df186bf596e77a839e354f9d704fe",
-   "title": "Trump schwingt den Zoll-Hammer! Auch EU betroffen",
-   "source": "Heute",
-   "link": "https://www.heute.at/s/trump-schwingt-den-zoll-hammer-auch-eu-betroffen-120287050",
-   "published": "2026-11-25T14:34:00Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
    "id": "ae8ba7167d4efec3189d983d6512f240",
    "title": "Bis zu 15 Prozent – US-Regierung schlägt neue Zölle unter anderem gegen Schweiz vor",
    "source": "Srf",
@@ -3195,16 +3885,6 @@
    "language": "german"
   },
   {
-   "id": "112e77d91660acc1ae739f756418d587",
-   "title": "Mehr als 70 Kundgebungen – Landesweiter Streik legt Teile des Verkehrs in Griechenland lahm",
-   "source": "Srf",
-   "link": "https://www.srf.ch/news/international/mehr-als-70-kundgebungen-landesweiter-streik-legt-teile-des-verkehrs-in-griechenland-lahm",
-   "published": "2026-11-25T14:19:24Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
    "id": "bd0c7530c4ac5b3c1f5838f638ee2cf9",
    "title": "Trump plant neue Zölle gegen mehrere Länder – auch gegen die Schweiz",
    "source": "Shn Ch",
@@ -3212,16 +3892,6 @@
    "published": "2026-11-25T14:16:53Z",
    "country": "switzerland",
    "category": "politics",
-   "language": "german"
-  },
-  {
-   "id": "4ef655ed2f4829f2c0f95a353ab0bbe1",
-   "title": "Büro offenbar schon wieder zu – Nordkorea will Schweizer Büro schliessen – Was bedeutet das?",
-   "source": "Srf",
-   "link": "https://www.srf.ch/news/schweiz/buero-offenbar-schon-wieder-zu-nordkorea-will-schweizer-buero-schliessen-was-bedeutet-das",
-   "published": "2026-11-25T14:16:01Z",
-   "country": "switzerland",
-   "category": "top",
    "language": "german"
   },
   {
@@ -3332,676 +4002,6 @@
    "published": "2026-11-25T03:36:04Z",
    "country": "germany",
    "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "7f2cc29e733420c739ca5665aca96ccb",
-   "title": "Votre forfait mobile augmente? Les bons réflexes pour faire baisser la facture",
-   "source": "Notretemps.com",
-   "link": "https://www.notretemps.com/high-tech/smartphone-tablette/votre-forfait-mobile-augmente-voici-comment-faire-baisser-la-facture-141595",
-   "published": "2026-11-25T03:36:01Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "d10bd4e9e8ce0d27458303908e26d8a9",
-   "title": "Experten: Entwurf für Spritpreisdeckel bringt wenig",
-   "source": "Bbv-net De",
-   "link": "https://www.bbv-net.de/dpa-infoline-zvr/experten-entwurf-fuer-spritpreisdeckel-bringt-wenig-w1278423-6000668794/",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "d7987da37314ce9ab81b816d237098db",
-   "title": "Experten: Entwurf für Spritpreisdeckel bringt wenig",
-   "source": "Hellweger Anzeiger",
-   "link": "https://www.hellwegeranzeiger.de/dpa-infoline-zvr/experten-entwurf-fuer-spritpreisdeckel-bringt-wenig-w1278423-1001828328/",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "0286c2d32325a99e9da146f7a43c8b3e",
-   "title": "Business-Ticker: Huawei weist US-Urteil wegen Industriespionage zurück",
-   "source": "Frankfurther Allgemeine Zeitung",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-huawei-weist-us-urteil-wegen-industriespionage-zurueck-faz-200452404.html",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "73f5f3242b78b3333372438a26834616",
-   "title": "Experten: Entwurf für Spritpreisdeckel bringt wenig",
-   "source": "Stimberg Zeitung",
-   "link": "https://www.stimberg-zeitung.de/dpa-infoline-zvr/experten-entwurf-fuer-spritpreisdeckel-bringt-wenig-w1278423-10001444327/",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "75455913a3bccb8809d94c080223ab48",
-   "title": "Experten: Entwurf für Spritpreisdeckel bringt wenig",
-   "source": "Recklinghäuser Zeitung",
-   "link": "https://www.recklinghaeuser-zeitung.de/dpa-infoline-zvr/experten-entwurf-fuer-spritpreisdeckel-bringt-wenig-w1278423-6001460620/",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "0f2f808d33fb3cddfd2c7919bee8ea71",
-   "title": "Experten: Entwurf für Spritpreisdeckel bringt wenig",
-   "source": "Waltroper Zeitung",
-   "link": "https://www.waltroper-zeitung.de/dpa-infoline-zvr/experten-entwurf-fuer-spritpreisdeckel-bringt-wenig-w1278423-11001533698/",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "9bc33276180152c829fa135161a913ea",
-   "title": "Wie es in Berlin nach Emdes Ausschluss weitergeht",
-   "source": "Ruhrnachrichten De",
-   "link": "https://www.ruhrnachrichten.de/dpa-infoline-zvr/wie-es-in-berlin-nach-emdes-ausschluss-weitergeht-w1278424-2002311838/",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "b5b40665c72ab4f2d4aabc48e0b0f844",
-   "title": "Wie es in Berlin nach Emdes Ausschluss weitergeht",
-   "source": "Bbv-net De",
-   "link": "https://www.bbv-net.de/dpa-infoline-zvr/wie-es-in-berlin-nach-emdes-ausschluss-weitergeht-w1278424-6000668792/",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "7135ecbc830080a77081c880aa2ceab5",
-   "title": "Wie es in Berlin nach Emdes Ausschluss weitergeht",
-   "source": "Hellweger Anzeiger",
-   "link": "https://www.hellwegeranzeiger.de/dpa-infoline-zvr/wie-es-in-berlin-nach-emdes-ausschluss-weitergeht-w1278424-1001828326/",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "c05c4a3f256d0766b82152e8105f44e4",
-   "title": "Wie es in Berlin nach Emdes Ausschluss weitergeht",
-   "source": "Stimberg Zeitung",
-   "link": "https://www.stimberg-zeitung.de/dpa-infoline-zvr/wie-es-in-berlin-nach-emdes-ausschluss-weitergeht-w1278424-10001444325/",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "b35a31ae9a6f4ddb4848876bca3e34fb",
-   "title": "Wie es in Berlin nach Emdes Ausschluss weitergeht",
-   "source": "Recklinghäuser Zeitung",
-   "link": "https://www.recklinghaeuser-zeitung.de/dpa-infoline-zvr/wie-es-in-berlin-nach-emdes-ausschluss-weitergeht-w1278424-6001460618/",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "567210dce26b542852aea6573ffcd9b0",
-   "title": "Wie es in Berlin nach Emdes Ausschluss weitergeht",
-   "source": "Waltroper Zeitung",
-   "link": "https://www.waltroper-zeitung.de/dpa-infoline-zvr/wie-es-in-berlin-nach-emdes-ausschluss-weitergeht-w1278424-11001533696/",
-   "published": "2026-11-25T03:36:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "fdc4ae983ed2867c57e31cf8051fa2e5",
-   "title": "Was a longtime Northern California incumbent sacrificed for the goals of Prop. 50?",
-   "source": "Daily Item",
-   "link": "https://www.dailyitem.com/wire/was-a-longtime-northern-california-incumbent-sacrificed-for-the-goals-of-prop-50/article_f1e03540-a94c-5636-addc-24566cb1ca79.html",
-   "published": "2026-11-25T03:35:38Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "5c34d3c5f4e97f6583d34564a60d4829",
-   "title": "Was a longtime Northern California incumbent sacrificed for the goals of Prop. 50?",
-   "source": "Hastingstribune",
-   "link": "https://www.hastingstribune.com/ap/national/was-a-longtime-northern-california-incumbent-sacrificed-for-the-goals-of-prop-50/article_8067dd48-1e25-5e74-a767-39e524d481c4.html",
-   "published": "2026-11-25T03:35:38Z",
-   "country": "united states of america",
-   "category": "politics",
-   "language": "english"
-  },
-  {
-   "id": "d3fb9070b168686c0ce3a76d337ba137",
-   "title": "Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment",
-   "source": "Investing Us",
-   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630",
-   "published": "2026-11-25T03:35:25Z",
-   "country": "united states of america",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "329e42b7c1097cae3a4cb181a1d55b6d",
-   "title": "What Is the Cheapest Parallel Dialer in 2027? OpenDialer vs Salesfinity vs Trellus on Published Seat Prices",
-   "source": "Borger News-herald",
-   "link": "https://www.borgernewsherald.com/online_features/press_releases/what-is-the-cheapest-parallel-dialer-in-2027-opendialer-vs-salesfinity-vs-trellus-on-published/article_ebf5ee5e-0e9d-5b27-af8f-bcaa3cb0eb19.html",
-   "published": "2026-11-25T03:35:03Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "0f4001eddac1a94083b068d868b72b7d",
-   "title": "What Is the Cheapest Parallel Dialer in 2027? OpenDialer vs Salesfinity vs Trellus on Published Seat Prices",
-   "source": "Recorderonline",
-   "link": "https://www.recorderonline.com/online_features/press_releases/what-is-the-cheapest-parallel-dialer-in-2027-opendialer-vs-salesfinity-vs-trellus-on-published/article_ef9e8e3e-aaf6-56b3-a470-a99dc63b8fd0.html",
-   "published": "2026-11-25T03:35:03Z",
-   "country": "united states of america",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "07c842a3fc6d24c573dd8147ba30cb9b",
-   "title": "University of Kentucky says review finds conduct concerns in law professor probe",
-   "source": "Fox 56 News",
-   "link": "https://fox56news.com/news/local/lexington/university-of-kentucky-says-review-finds-conduct-concerns-in-law-professor-probe/",
-   "published": "2026-11-25T03:34:40Z",
-   "country": "united states of america",
-   "category": "crime",
-   "language": "english"
-  },
-  {
-   "id": "599620879cd15904d0084461fcb47331",
-   "title": "Hubbard, Broderick add to Democratic majority in Congress",
-   "source": "Dallas Voice",
-   "link": "https://dallasvoice.com/hubbard-broderick-add-to-democratic-majority-in-congress/",
-   "published": "2026-11-25T03:33:50Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "a7ace8610c2cdd0fa9fc30791b46ae99",
-   "title": "Wie es in Berlin nach Emdes Ausschluss weitergeht",
-   "source": "Zvw",
-   "link": "https://www.zvw.de/mehr-nachrichten/deutschland/wie-es-in-berlin-nach-emdes-ausschluss-weitergeht_arid-1106512",
-   "published": "2026-11-25T03:33:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "4e134de6b68b4f253065ecb4a40453e8",
-   "title": "Wie es in Berlin nach Emdes Ausschluss weitergeht",
-   "source": "Nord24",
-   "link": "https://www.nord24.de/politik/wie-es-in-berlin-nach-emdes-ausschluss-weitergeht-433219.html",
-   "published": "2026-11-25T03:33:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "7ef25234ce9b5d9f618e58179a5a2ff4",
-   "title": "Wie es in Berlin nach Emdes Ausschluss weitergeht",
-   "source": "Mannheimer Morgen",
-   "link": "https://www.mannheimer-morgen.de/politik_artikel,-politik-wie-es-in-berlin-nach-emdes-ausschluss-weitergeht-_arid,2414234.html",
-   "published": "2026-11-25T03:33:00Z",
-   "country": "germany",
-   "category": "politics",
-   "language": "german"
-  },
-  {
-   "id": "04ab3ab037cbdf2ce270b6ba733bb748",
-   "title": "Outrage as Trump 'grifters' haul in 'corrupt' fortune from 'persons unknown'",
-   "source": "Raw Story",
-   "link": "https://www.rawstory.com/trump-mystery-donor/",
-   "published": "2026-11-25T03:32:33Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "98c5e60cc71cb6115f677a81dad35b90",
-   "title": "Un actionnaire majeur acquiert 16.793$ d’actions Jewett-Cameron Trading",
-   "source": "Investing French",
-   "link": "https://fr.investing.com/news/insider-trading-news/un-actionnaire-majeur-acquiert-16793-dactions-jewettcameron-trading-93CH-3711942",
-   "published": "2026-11-25T03:31:08Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "a326bd1b4c6cea411c7c6c66089243fa",
-   "title": "Le Dow Jones repasse au-dessus de 50.000 pts pendant que le Nasdaq corrige",
-   "source": "Investing French",
-   "link": "https://fr.investing.com/news/stock-market-news/le-dow-jones-repasse-audessus-de-50000-pts-pendant-que-le-nasdaq-corrige-3711943",
-   "published": "2026-11-25T03:31:08Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "2553fa975951981d3cce46579bc63baa",
-   "title": "EOS décline de 14% dans un marché baissier",
-   "source": "Investing French",
-   "link": "https://fr.investing.com/news/cryptocurrency-news/eos-decline-de-14-dans-un-marche-baissier-3711944",
-   "published": "2026-11-25T03:31:08Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "70d87cf6f625c94392f401e8f23ec74c",
-   "title": "China signs deal to strengthen Sri Lankan police as complaints of abuse mount",
-   "source": "Tamilguardian",
-   "link": "http://www.tamilguardian.com/content/china-backs-sri-lankan-police-modernisation-complaints-misconduct-persist",
-   "published": "2026-11-25T03:30:57Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "e8b400e377ede455d429c5e640445d35",
-   "title": "LSU files for dismissal of SEC lawsuit regarding former-professional players",
-   "source": "Reveille",
-   "link": "https://lsureveille.com/294672/featured_story/lsu-files-for-dismissal-of-sec-lawsuit-regarding-former-professional-players/",
-   "published": "2026-11-25T03:30:56Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "600b31eea1cf677c19314b229c23123e",
-   "title": "Mills Police Chief Quits, Claims Mayor Created Hostile Workplace",
-   "source": "Cowboy State Daily",
-   "link": "https://cowboystatedaily.com/2026/11/24/mills-police-chief-resigns-quits-claims-mayor-created-hostile-workplace/",
-   "published": "2026-11-25T03:30:56Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "bbc1631b2c80b7b53d34c51ab386e1ba",
-   "title": "Irlande: 48 étudiants palestiniens autorisés à rejoindre le pays après des mois de refus",
-   "source": "Rfi",
-   "link": "https://www.rfi.fr/fr/europe/20261125-irlande-48-%C3%A9tudiants-palestiniens-autoris%C3%A9s-%C3%A0-rejoindre-le-pays-apr%C3%A8s-des-mois-de-refus",
-   "published": "2026-11-25T03:30:45Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "1d0c1d4f18fedf48ca550b09ae6e0b71",
-   "title": "Hampshire PCC urges support for women facing abuse",
-   "source": "Southern Daily Echo",
-   "link": "https://www.dailyecho.co.uk/news/26758726.hampshire-pcc-urges-support-women-experiencing-abuse/",
-   "published": "2026-11-25T03:30:00Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "08c0a653ad18457e9ac6e426f2210c7b",
-   "title": "Cobalt : la RDC suspend à nouveau ses exportations pour soutenir les cours",
-   "source": "Forbes Afrique",
-   "link": "https://forbesafrique.com/cobalt-la-rdc-suspend-a-nouveau-ses-exportations-pour-soutenir-les-cours/",
-   "published": "2026-11-25T03:30:00Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
-  },
-  {
-   "id": "21a548909cd28c7e966ec68abad29a00",
-   "title": "Norovirus: Was Arbeitgeber jetzt wissen sollten",
-   "source": "Leaders Net",
-   "link": "https://www.leadersnet.de/news/106071,norovirus-was-arbeitgeber-jetzt-wissen-sollten.html",
-   "published": "2026-11-25T03:28:00Z",
-   "country": "austria",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "9755c4a77f618dbdf184109faf93769d",
-   "title": "Le Salvadorien Kilmar Abrego Garcia, symbole des expulsions sous Donald Trump, quitte les Etats-Unis",
-   "source": "Le Monde",
-   "link": "https://www.lemonde.fr/international/article/2026/11/25/le-salvadorien-kilmar-abrego-garcia-symbole-des-expulsions-sous-trump-quitte-les-etats-unis_6814999_3210.html",
-   "published": "2026-11-25T03:25:48Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "a6b81bd0731f451b47c7bb70830a0311",
-   "title": "US judge eviscerates ‘movie villain’ Trump as he throws out Biden laptop case",
-   "source": "Inews",
-   "link": "https://inews.co.uk/news/world/us-judge-us-judge-donald-trump-fbi-biden-laptop-election-interference-4929111",
-   "published": "2026-11-25T03:19:48Z",
-   "country": "united kingdom",
-   "category": "crime",
-   "language": "english"
-  },
-  {
-   "id": "a4b3f9fd0a347b798a9c6e7ca83798d8",
-   "title": "S. Korea's business sentiment edges down in November",
-   "source": "Bignewsnetwork",
-   "link": "http://bignewsnetwork.com/news/279453012/s-korea-business-sentiment-edges-down-in-november",
-   "published": "2026-11-25T03:17:30Z",
-   "country": "canada",
-   "category": "politics",
-   "language": "english"
-  },
-  {
-   "id": "2582636ac89ec4a470a57e5d459859a3",
-   "title": "Sri Lankan military releases 2.71 acres of Tamil land in Jaffna as occupation endures",
-   "source": "Tamilguardian",
-   "link": "http://www.tamilguardian.com/content/sri-lankan-military-releases-271-acres-private-land-jaffna",
-   "published": "2026-11-25T03:17:29Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "6907de1e422309fe08c0ad4c82ac2c14",
-   "title": "Stromausfall, Pikettdienst und Netzsicherheit",
-   "source": "Shn Ch",
-   "link": "https://www.shn.ch/multimedia/publireportagen/2022-06-24/antworten-auf-draengende-fragen-rund-um-energie",
-   "published": "2026-11-25T03:15:55Z",
-   "country": "switzerland",
-   "category": "environment",
-   "language": "german"
-  },
-  {
-   "id": "35064ff08ad9fcb9eb663574db4ced25",
-   "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-   "source": "The Bbc",
-   "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno",
-   "published": "2026-11-25T03:15:12Z",
-   "country": "myanmar",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "0ff8561ce5bbaac6b3216b733aed9826",
-   "title": "Trump says he could pardon Jensen Huang as Nvidia CEO hauled before Congress over Chinese 'spy' affair",
-   "source": "Mirror",
-   "link": "https://www.mirror.co.uk/news/us-news/trump-jensen-huang-nvidia-pardon-37912120",
-   "published": "2026-11-25T03:15:08Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "2a081eade995cd5a6253056ad4203149",
-   "title": "Kamala Harris' ex-lover Willie Brown savages her 2028 hopes: 'I don't want her to run'... and reveals who he's backing",
-   "source": "Mail Online",
-   "link": "https://www.dailymail.com/news/us-politics/article-16319157/Kamala-Harris-ex-lover-Willie-Brown-savages-2028-hopes-dont-want-run-reveals-hes-backing.html",
-   "published": "2026-11-25T03:13:00Z",
-   "country": "united kingdom",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "00ed56ae1c4f8015a2d032dd19d4d20a",
-   "title": "SMI vorbörslich etwas fester erwartet",
-   "source": "Finanz Und Wirtschaft",
-   "link": "https://www.fuw.ch/schweizer-boersen-ticker-512-772046976361",
-   "published": "2026-11-25T03:02:55Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "35f1eb4d66c0483232209351cf37f305",
-   "title": "Rütli Apotheke und Rotpunkt",
-   "source": "Www.bote.ch",
-   "link": "https://www.bote.ch/nachrichten/sponsored/bruetli-apotheke-und-rotpunktb-art-1731386",
-   "published": "2026-11-25T03:00:02Z",
-   "country": "switzerland",
-   "category": "business",
-   "language": "german"
-  },
-  {
-   "id": "58fd9bda6015ea6d5ec5d640c4b35203",
-   "title": "Medien: Hackerangriff auf die CIA",
-   "source": "News.at",
-   "link": "https://www.news.at/politik/medien-hackerangriff-auf-die-cia",
-   "published": "2026-11-25T01:08:10Z",
-   "country": "austria",
-   "category": "politics",
-   "language": "german"
-  },
-  {
-   "id": "56c982ae98cd8755700fe59e63d5a437",
-   "title": "Sicher auftreten, Grenzen setzen - Selbstverteidigung für Frauen in Axams",
-   "source": "Meinbezirk",
-   "link": "https://www.meinbezirk.at/westliches-mittelgebirge/c-lokales/sicher-auftreten-grenzen-setzen-selbstverteidigung-fuer-frauen-in-axams_a9023304",
-   "published": "2026-11-25T01:01:06Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "fb552fed611daf0f7a6252047e309452",
-   "title": "Neue Studie enthüllt: - Briten haben nur noch halb so oft Sex wie früher",
-   "source": "Kronen Zeitung",
-   "link": "https://www.krone.at/4387854",
-   "published": "2026-11-24T23:30:45Z",
-   "country": "austria",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "5f6161e7466d95f5e938af99e963f004",
-   "title": "Schwyzer Patientenunterlagen sollen 120 Jahre geschützt bleiben",
-   "source": "Www.bote.ch",
-   "link": "https://www.bote.ch/nachrichten/schwyz/schwyzer-patientenunterlagen-sollen-120-jahre-geschuetzt-bleiben-art-1733888",
-   "published": "2026-11-24T23:05:00Z",
-   "country": "switzerland",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "2dc21427fff7b7255b7ce69093af4777",
-   "title": "Berufsbörse in der Stadthalle Rheinberg: Karriere soll ganz entspannt beginnen",
-   "source": "Rp Online",
-   "link": "https://rp-online.de/nrw/staedte/rheinberg/rheinberg-wir4-kommt-mit-seiner-job-lounge-in-die-stadthalle_aid-158509647",
-   "published": "2026-11-24T15:33:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "f8b8a17b76e204afd22f7b0ee9402395",
-   "title": "Tischler, Klempner, Heizungsmonteure: Wie Hamburg um das Handwerk kämpft",
-   "source": "Hamburger Abendblatt",
-   "link": "https://www.abendblatt.de/hamburg/wirtschaft/article413758602/tischler-klempner-heizungsmonteure-wie-hamburg-um-das-handwerk-kaempft.html",
-   "published": "2026-11-24T15:33:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "2928b274406bb4ade7c4f715cf6ae35a",
-   "title": "Häusliche Gewalt gegen Frauen so hoch wie noch nie",
-   "source": "Dw Akademie",
-   "link": "https://www.dw.com/de/h%C3%A4usliche-gewalt-gegen-frauen-so-hoch-wie-noch-nie/a-80034384?maca=de-rss-de-top-1016-rdf",
-   "published": "2026-11-24T15:33:00Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "c6f5069ce116c7a71f920ed8cf76f2b1",
-   "title": "Property Tax Expert Claire Gangi Explains Nassau County Property Tax Grievance Process in HelloNation",
-   "source": "Pr Newswire",
-   "link": "https://www.prnewswire.com/news-releases/property-tax-expert-claire-gangi-explains-nassau-county-property-tax-grievance-process-in-hellonation-302949589.html",
-   "published": "2026-11-24T15:33:00Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "cbb2703edb84f36ca874a5cf6dce5ef9",
-   "title": "Fidelity just showed what market pressure does to retirement savers",
-   "source": "Thestreet",
-   "link": "https://www.thestreet.com/retirement/fidelity-just-showed-what-market-pressure-does-to-retirement-savers",
-   "published": "2026-11-24T15:33:00Z",
-   "country": "united states of america",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "03edd9e89bd17bbb7b7e5d0b8f6a6ec3",
-   "title": "Justice. « Tintin au Congo » : Teddy Rinner porte plainte contre l'ex-directrice de cabinet de Nicolas Sarkozy",
-   "source": "Lalsace Fr",
-   "link": "https://www.lalsace.fr/faits-divers-justice/2026/11/24/tintin-au-congo-teddy-rinner-porte-plainte-contre-l-ex-directrice-de-cabinet-de-nicolas-sarkozy",
-   "published": "2026-11-24T15:33:00Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "d8e6c3c773f69d98fa725e2bf669bcb0",
-   "title": "Justice. « Tintin au Congo » : Teddy Riner porte plainte contre l'ex-directrice de cabinet de Nicolas Sarkozy",
-   "source": "L'est Républicain",
-   "link": "https://www.estrepublicain.fr/faits-divers-justice/2026/11/24/tintin-au-congo-teddy-rinner-porte-plainte-contre-l-ex-directrice-de-cabinet-de-nicolas-sarkozy",
-   "published": "2026-11-24T15:33:00Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "62a75f9d127ae04b0d9cb6358e2aa5f7",
-   "title": "Justice. « Tintin au Congo » : Teddy Riner porte plainte contre l'ex-directrice de cabinet de Nicolas Sarkozy",
-   "source": "Le Dauphine",
-   "link": "https://www.ledauphine.com/faits-divers-justice/2026/11/24/tintin-au-congo-teddy-rinner-porte-plainte-contre-l-ex-directrice-de-cabinet-de-nicolas-sarkozy",
-   "published": "2026-11-24T15:33:00Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "adfde570b3cdc1a6426089b379af2297",
-   "title": "Justice. « Tintin au Congo » : Teddy Rinner porte plainte contre l'ex-directrice de cabinet de Nicolas Sarkozy",
-   "source": "Le Bien Public",
-   "link": "https://www.bienpublic.com/faits-divers-justice/2026/11/24/tintin-au-congo-teddy-rinner-porte-plainte-contre-l-ex-directrice-de-cabinet-de-nicolas-sarkozy",
-   "published": "2026-11-24T15:33:00Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "e420e016f8fe1ff2431c2a6f37774952",
-   "title": "Justice. « Tintin au Congo » : Teddy Rinner porte plainte contre l'ex-directrice de cabinet de Nicolas Sarkozy",
-   "source": "Le Progrès",
-   "link": "https://www.leprogres.fr/faits-divers-justice/2026/11/24/tintin-au-congo-teddy-rinner-porte-plainte-contre-l-ex-directrice-de-cabinet-de-nicolas-sarkozy",
-   "published": "2026-11-24T15:33:00Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "20bd676508ad929cf8106192743c6d04",
-   "title": "Justice. « Tintin au Congo » : Teddy Riner porte plainte contre l'ex-directrice de cabinet de Nicolas Sarkozy",
-   "source": "Le Journal",
-   "link": "https://www.lejsl.com/faits-divers-justice/2026/11/24/tintin-au-congo-teddy-rinner-porte-plainte-contre-l-ex-directrice-de-cabinet-de-nicolas-sarkozy",
-   "published": "2026-11-24T15:33:00Z",
-   "country": "france",
-   "category": "top",
-   "language": "french"
-  },
-  {
-   "id": "5d7076688272768f6d2d55540d64a1f4",
-   "title": "La Commission européenne maintient en suspens la procédure pour déficit excessif visant la Belgique",
-   "source": "Rtbf",
-   "link": "https://www.rtbf.be/article/la-commission-europeenne-maintient-en-suspens-la-procedure-pour-deficit-excessif-visant-la-belgique-11820481",
-   "published": "2026-11-24T15:32:58Z",
-   "country": "france",
-   "category": "business",
-   "language": "french"
-  },
-  {
-   "id": "833430c30df33535597df906d7614bae",
-   "title": "Friends of the Cancer Centre to hold Winter Walk in Belfast",
-   "source": "Northern Ireland World",
-   "link": "https://www.northernirelandworld.com/news/people/friends-of-the-cancer-centre-to-hold-winter-walk-in-belfast-9371458",
-   "published": "2026-11-24T15:32:56Z",
-   "country": "united kingdom",
-   "category": "business",
-   "language": "english"
-  },
-  {
-   "id": "4f5351f175931d96fe3cc0feae365241",
-   "title": "Column: What winning the AI race means and why it matters",
-   "source": "The Morning Sun",
-   "link": "https://www.themorningsun.com/2026/11/24/column-what-winning-the-ai-race-means-and-why-it-matters/",
-   "published": "2026-11-24T15:32:55Z",
-   "country": "united states of america",
-   "category": "top",
-   "language": "english"
-  },
-  {
-   "id": "bd7678bc03ad2137d0de232caa1497ac",
-   "title": "Mehr Hilfe für Opfer häuslicher Gewalt: Versteckte App hilft vor Gericht",
-   "source": "Neue Ruhr Zeitung",
-   "link": "https://www.nrz.de/politik/article413766231/mehr-hilfe-fuer-opfer-haeuslicher-gewalt-versteckte-app-hilft-vor-gericht.html",
-   "published": "2026-11-24T15:32:54Z",
-   "country": "germany",
-   "category": "politics",
-   "language": "german"
-  },
-  {
-   "id": "05ba73954a451efc3aba1b8cde78facf",
-   "title": "Mehr Hilfe für Opfer häuslicher Gewalt: Versteckte App hilft vor Gericht",
-   "source": "Ostthüringer Zeitung",
-   "link": "https://www.otz.de/politik/article413766231/mehr-hilfe-fuer-opfer-haeuslicher-gewalt-versteckte-app-hilft-vor-gericht.html",
-   "published": "2026-11-24T15:32:54Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "f8e979b599fee3a5d6535be3fea5c201",
-   "title": "Mehr Hilfe für Opfer häuslicher Gewalt: Versteckte App hilft vor Gericht",
-   "source": "Berliner Morgenpos",
-   "link": "https://www.morgenpost.de/politik/article413766231/mehr-hilfe-fuer-opfer-haeuslicher-gewalt-versteckte-app-hilft-vor-gericht.html",
-   "published": "2026-11-24T15:32:54Z",
-   "country": "germany",
-   "category": "politics",
-   "language": "german"
-  },
-  {
-   "id": "1f147191cdc70bc24af36d3cb6f4bac8",
-   "title": "Mehr Hilfe für Opfer häuslicher Gewalt: Versteckte App hilft vor Gericht",
-   "source": "Westfalenpost",
-   "link": "https://www.wp.de/politik/article413766231/mehr-hilfe-fuer-opfer-haeuslicher-gewalt-versteckte-app-hilft-vor-gericht.html",
-   "published": "2026-11-24T15:32:54Z",
-   "country": "germany",
-   "category": "top",
-   "language": "german"
-  },
-  {
-   "id": "d2c8dc90e2f35fded4dc77e5cd72818e",
-   "title": "Mehr Hilfe für Opfer häuslicher Gewalt: Versteckte App hilft vor Gericht",
-   "source": "Hamburger Abendblatt",
-   "link": "https://www.abendblatt.de/politik/article413766231/mehr-hilfe-fuer-opfer-haeuslicher-gewalt-versteckte-app-hilft-vor-gericht.html",
-   "published": "2026-11-24T15:32:54Z",
-   "country": "germany",
-   "category": "politics",
    "language": "german"
   }
  ]
